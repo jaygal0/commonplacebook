@@ -1,29 +1,79 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  padding: 0 2.4rem;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 3.2rem;
   height: 100vh;
 }
 
-.main {
-  padding: 5rem 0;
-  flex: 1;
+.header {
+  margin: 8.8rem 0 6.4rem 0;
+  grid-column: 2 / 11;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 2.4rem;
+  line-height: 3.2rem;
+  font-weight: 700;
+}
+
+.link {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  text-transform: capitalize;
+}
+
+.main {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 3.2rem;
+}
+
+.headingWrapper {
+  grid-column: 1 / span 10;
+  background: rgb(231, 231, 231);
+  padding: 8.8rem 11.9rem;
+}
+
+.sidebar {
+  grid-column: 11 / -1;
+}
+
+.h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 5.6rem;
+  line-height: 7.2rem;
+  font-weight: 400;
+}
+
+.h2 {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-bottom: -0.8rem;
+}
+
+.wrapper {
+  margin-bottom: 2.4rem;
+}
+
+.button {
+  margin-bottom: 6.4rem;
+}
+
+.text {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: 400;
 }
 
 .footer {
-  width: 100%;
-  height: 100px;
-  border-top: 1px solid #eaeaea;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  grid-column: 10 / span 1;
 }
 
 .footer a {
