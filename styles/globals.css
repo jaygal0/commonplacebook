@@ -19,4 +19,10 @@ a {
 
 #__next {
   max-width: 144rem;
+  min-height: 100vh;
+  padding: 0 2.4rem;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(2, min-content);
+  grid-gap: 3.2rem;
 }

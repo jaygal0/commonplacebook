@@ -1,15 +1,7 @@
-.container {
-  min-height: 100vh;
-  padding: 0 2.4rem;
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 3.2rem;
-  height: 100vh;
-}
-
 .header {
   margin: 8.8rem 0 6.4rem 0;
   grid-column: 2 / 11;
+  grid-row: 1;
   display: flex;
   justify-content: space-between;
 }
@@ -28,6 +20,7 @@
 
 .main {
   grid-column: 1 / -1;
+  grid-row: 2;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-gap: 3.2rem;
@@ -41,6 +34,7 @@
 
 .sidebar {
   grid-column: 11 / -1;
+  grid-row: 2;
 }
 
 .h1 {
@@ -73,7 +67,11 @@
 }
 
 .footer {
+  margin-top: 9.6rem;
   grid-column: 10 / span 1;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  font-weight: 400;
 }
 
 .footer a {
