@@ -37,12 +37,14 @@ export default function Home() {
         <div className={styles.logo}>commonplace book</div>
         <div className={styles.link}>about</div>
       </header>
+
       {/* MAIN */}
       <main className={styles.main}>
         <div className={styles.headingWrapper}>
           <h1 className={styles.h1}>{data[book].highlights[passage].text}</h1>
         </div>
       </main>
+
       {/* SIDEBAR */}
       <div className={styles.sidebar}>
         <button className={styles.button} onClick={getQuote}>
