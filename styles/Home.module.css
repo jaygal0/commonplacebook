@@ -27,7 +27,7 @@
 }
 
 .headingWrapper {
-  background: rgb(231, 231, 231);
+  background-color: #cfd3cf;
   min-height: calc(100vh - 17.9rem);
   padding: 8.8rem 11.9rem;
 }
@@ -63,7 +63,14 @@
   margin-bottom: 11.2rem;
   padding: 1.6rem 2.4rem;
   outline: none;
+  border-style: solid 2px #cfd3cf;
   border-radius: 0;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.button:active {
+  border-style: outset;
 }
 
 .text {
