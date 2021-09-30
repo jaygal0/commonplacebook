@@ -26,25 +26,80 @@
   grid-row: 2;
 }
 
-.headingWrapper {
+.headingContainer {
   background-color: #cfd3cf;
   min-height: calc(100vh - 17.9rem);
-  padding: 8.8rem 11.9rem;
+  position: relative;
+  display: flex;
 }
 
-.sidebar {
-  width: calc(20vw - 2.4rem);
-  position: fixed;
-  grid-row: 2;
-  right: 2.4rem;
-  top: 18.4rem;
+.animationWipe {
+  animation: wipe 2 1s 0.5s alternate cubic-bezier(0.28, 0.12, 0.44, 0.8);
 }
 
+.animationSwipe {
+  animation: swipe 2 1s 0.5s alternate cubic-bezier(0.28, 0.12, 0.44, 0.8);
+}
+
+.animationDissolve {
+  animation: dissolve 2 1.5s alternate cubic-bezier(0.28, 0.12, 0.44, 0.8);
+}
+
+.animationDissolveAgain {
+  animation: dissolveRepeat 2 1.5s alternate cubic-bezier(0.28, 0.12, 0.44, 0.8);
+}
+
+@keyframes wipe {
+  0% {
+    clip-path: inset(0);
+  }
+  100% {
+    clip-path: inset(0 100% 0 0);
+  }
+}
+
+@keyframes swipe {
+  0% {
+    clip-path: inset(0);
+  }
+  100% {
+    clip-path: inset(0 100% 0 0);
+  }
+}
+
+@keyframes dissolve {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes dissolveRepeat {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
 .h1 {
+  padding: 8.8rem 11.9rem;
   font-family: 'Libre Baskerville', serif;
   font-size: 5.6rem;
   line-height: 7.2rem;
   font-weight: 400;
+  z-index: 4;
+}
+
+.mainBackground {
+  background-color: #cfd3cf;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  position: absolute;
+  top: 0;
 }
 
 .h2 {
@@ -57,6 +112,14 @@
 
 .wrapper {
   margin-bottom: 2.4rem;
+}
+
+.sidebar {
+  width: calc(20vw - 2.4rem);
+  position: fixed;
+  grid-row: 2;
+  right: 2.4rem;
+  top: 18.4rem;
 }
 
 .button {

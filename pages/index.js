@@ -6,6 +6,7 @@ import data from '../data/index'
 export default function Home() {
   const [book, setBook] = useState(0)
   const [passage, setPassage] = useState(0)
+  const [activeAnimation, setActiveAnimation] = useState(true)
 
   useEffect(() => {
     getQuote()
@@ -15,8 +16,12 @@ export default function Home() {
     let book = Math.floor(Math.random() * data.length)
     let passage = Math.floor(Math.random() * data[book].highlights.length)
 
-    setBook(book)
-    setPassage(passage)
+    setActiveAnimation(!activeAnimation)
+
+    setTimeout(() => {
+      setBook(book)
+      setPassage(passage)
+    }, 1300)
   }
 
   return (
@@ -26,7 +31,11 @@ export default function Home() {
         <meta name="description" content="mantra" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="true"
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Libre+Baskerville&display=swap"
           rel="stylesheet"
@@ -40,8 +49,25 @@ export default function Home() {
 
       {/* MAIN */}
       <main className={styles.main}>
-        <div className={styles.headingWrapper}>
-          <h1 className={styles.h1}>{data[book].highlights[passage].text}</h1>
+        <div
+          className={`${styles.headingContainer} ${
+            activeAnimation ? styles.animationSwipe : styles.animationWipe
+          }`}
+        >
+          <h1
+            className={`${styles.h1} ${
+              activeAnimation
+                ? styles.animationDissolve
+                : styles.animationDissolveAgain
+            }`}
+          >
+            {data[book].highlights[passage].text}
+          </h1>
+          {/* <div */}
+          {/* className={`${styles.mainBackground} ${ */}
+          {/* activeAnimation ? styles.animationWipe : styles.animationSwipe */}
+          {/* }`} */}
+          {/* ></div> */}
         </div>
       </main>
 
