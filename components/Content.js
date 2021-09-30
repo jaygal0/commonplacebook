@@ -1,28 +1,29 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import data from '../data/index'
-import styles from '../styles/Home.module.css'
+import styles from './Content.module.css'
 
 const Content = () => {
-  const [book, setBook] = useState(0)
-  const [passage, setPassage] = useState(0)
+  const [book, setBook] = useState(Math.floor(Math.random() * data.length))
+  const [passage, setPassage] = useState(
+    Math.floor(Math.random() * data[book].highlights.length)
+  )
   const [activeAnimation, setActiveAnimation] = useState(true)
-
-  useEffect(() => {
-    getQuote()
-  }, [])
 
   const getQuote = () => {
     setActiveAnimation(!activeAnimation)
 
-    setTimeout(() => {
-      let book = Math.floor(Math.random() * data.length)
-      let passage = Math.floor(Math.random() * data[book].highlights.length)
-      setBook(book)
-      setPassage(passage)
-    }, 1300)
+    // FIXME: Figure this one out
+    // setTimeout(() => {
+    let book = Math.floor(Math.random() * data.length)
+    let passage = Math.floor(Math.random() * data[book].highlights.length)
+    setBook(book)
+    setPassage(passage)
+    // }, 1300)
   }
+
   return (
     <>
+      {/* MAIN */}
       <main className={styles.main}>
         <div
           className={`${styles.headingContainer} ${
@@ -40,6 +41,8 @@ const Content = () => {
           </h1>
         </div>
       </main>
+
+      {/* SIDEBAR */}
       <div className={styles.sidebar}>
         <button className={styles.button} onClick={getQuote}>
           New Note
