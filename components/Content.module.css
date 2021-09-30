@@ -108,6 +108,7 @@
   border-radius: 0;
   background-color: transparent;
   font-weight: bold;
+  text-transform: capitalize;
 }
 
 .button:active {

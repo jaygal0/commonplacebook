@@ -45,7 +45,7 @@ const Content = () => {
       {/* SIDEBAR */}
       <div className={styles.sidebar}>
         <button className={styles.button} onClick={getQuote}>
-          New Note
+          new highlight
         </button>
         <div>
           <div className={styles.wrapper}>
