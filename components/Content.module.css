@@ -111,6 +111,11 @@
   text-transform: capitalize;
 }
 
+.button:hover {
+  background-color: #cfd3cf;
+  transition: all 0.8s ease-in-out;
+}
+
 .button:active {
   border-style: outset;
 }
