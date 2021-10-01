@@ -67,6 +67,7 @@ const Content = () => {
           <a
             href="https://galina.to"
             target="_blank"
+            rel="noreferrer"
             className={styles.pageLinks}
           >
             built by joshua galinato
