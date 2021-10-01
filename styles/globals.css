@@ -9,13 +9,20 @@ body {
   background-color: #e6ebe6;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 a {
   color: inherit;
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+p {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  font-weight: 400;
+  margin-bottom: 2.4rem;
 }
 
 #__next {

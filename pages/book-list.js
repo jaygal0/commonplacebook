@@ -1,17 +1,14 @@
 import React from 'react'
 import Header from '../components/Header'
-import Content from '../components/Content'
 import Meta from '../components/Meta'
+import BookList from '../components/BookList'
 
-// TODO: Remove animation
-// TODO: Figure out database logic
-
-export default function Home() {
+export default function bookList() {
   return (
     <>
       <Meta />
       <Header />
-      <Content />
+      <BookList />
     </>
   )
 }

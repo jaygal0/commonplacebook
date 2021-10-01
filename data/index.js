@@ -7019,4 +7019,5292 @@ export default [
       },
     ],
   },
+  {
+    asin: 'B079SWFVPC',
+    title: 'Make Time: How to focus on what matters every day',
+    authors: 'Jake Knapp and John Zeratsky',
+    highlights: [
+      {
+        text: 'The first thing we learned was that something magic happens when you start the day with one high-priority goal.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=306',
+          value: 306,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The first step is choosing a single highlight to prioritize in your day. Next, you’ll employ specific tactics to stay laser-focused on that highlight—we’ll offer a menu of tricks to beat distraction in an always-connected world. Throughout the day, you’ll build energy so you can stay in control of your time and attention. Finally, you’ll reflect on the day with a few simple notes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=355',
+          value: 355,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Every day, you’ll choose a single activity to prioritize and protect in your calendar.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=362',
+          value: 362,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Of course, your Highlight isn’t the only thing you’ll do each day. But it will be your priority.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=366',
+          value: 366,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Asking yourself “What’s going to be the highlight of my day?” ensures that you spend time on the things that matter to you and don’t lose the entire day reacting to other people’s priorities.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=367',
+          value: 367,
+        },
+        note: 'G',
+      },
+      {
+        text: 'When you choose a Highlight, you put yourself in a positive, proactive frame of mind.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=369',
+          value: 369,
+        },
+        note: 'G',
+      },
+      {
+        text: 'That’s why the third component of Make Time is to charge your battery with exercise, food, sleep, quiet, and face-to-face time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=381',
+          value: 381,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Perfection is a distraction—another shiny object taking your attention away from your real priorities.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=410',
+          value: 410,
+        },
+        note: 'G',
+      },
+      {
+        text: 'If, at the end of the day, someone asks you, “What was the highlight of your day?” what do you want your answer to be? When you look back on your day, what activity or accomplishment or moment do you want to savor? That’s your Highlight.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=492',
+          value: 492,
+        },
+        note: 'G',
+      },
+      {
+        text: 'You can design your time by choosing where you direct your attention. And your daily Highlight is the target of that attention.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=501',
+          value: 501,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Choosing your daily Highlight starts with asking yourself a question: What do I want to be the highlight of my day?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=505',
+          value: 505,
+        },
+        note: 'G',
+      },
+      {
+        text: 'What’s the most pressing thing I have to do today?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=512',
+          value: 512,
+        },
+        note: 'G',
+      },
+      {
+        text: 'If you have something that absolutely positively must be accomplished today, make it your Highlight.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=514',
+          value: 514,
+        },
+        note: 'G',
+      },
+      {
+        text: 'At the end of the day, which Highlight will bring me the most satisfaction?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=522',
+          value: 522,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The third strategy focuses on joy: When I reflect on today, what will bring me the most joy?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=533',
+          value: 533,
+        },
+        note: 'G',
+      },
+      {
+        text: 'You only waste time if you’re not intentional about how you spend it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=538',
+          value: 538,
+        },
+        note: 'G',
+      },
+      {
+        text: 'A good rule of thumb is to choose a Highlight that takes sixty to ninety minutes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=545',
+          value: 545,
+        },
+        note: 'G',
+      },
+      {
+        text: 'I’ve found that one big project, one small project, and a short list of catchall tasks are all I can (or should!) take on at once.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=716',
+          value: 716,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The best way to defeat distraction is to make it harder to react.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1104',
+          value: 1104,
+        },
+        note: 'G',
+      },
+      {
+        text: 'By adding a few steps that get in the way of checking Facebook, catching up on the news, or turning on the TV, you can short-circuit the cycle that makes these products so sticky.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1104',
+          value: 1104,
+        },
+        note: 'G',
+      },
+      {
+        text: 'When distraction is hard to access, you don’t have to worry about willpower.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1107',
+          value: 1107,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Between reading The Economist, listening to a weekly news podcast with my wife, and hearing the everyday talk of the town, I’m more than up to speed.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1354',
+          value: 1354,
+        },
+        note: 'G',
+      },
+      {
+        text: 'New versions of these tools come out all the time; you can find our favorites on maketimebook.com.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1404',
+          value: 1404,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Instead of reacting to every twitch, write your questions on a piece of paper (How much do wool socks cost on Amazon? Any Facebook updates?). Then you can stay in Laser mode, secure in the knowledge that those pressing topics have been captured for future research.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1839',
+          value: 1839,
+        },
+        note: null,
+      },
+      {
+        text: '',
+        isNoteOnly: true,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=1841',
+          value: 1841,
+        },
+        note: 'G',
+      },
+      {
+        text: 'If you change the default from “ride when possible” to “walk when possible,” you’ll see opportunities everywhere.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2089',
+          value: 2089,
+        },
+        note: 'H',
+      },
+      {
+        text: 'walking may be the world’s simplest and most convenient form of exercise, but despite being easy, it packs a powerful charge for your battery.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2090',
+          value: 2090,
+        },
+        note: 'H',
+      },
+      {
+        text: 'Eat food. Not too much. Mostly plants.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2165',
+          value: 2165,
+        },
+        note: 'H',
+      },
+      {
+        text: 'Wake up without caffeine (in other words, get out of bed, eat breakfast, and start the day without any coffee). • Have the first cup between 9:30 and 10:30 a.m. • Have the last cup between 1:30 and 2:30 p.m.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2273',
+          value: 2273,
+        },
+        note: 'H',
+      },
+      {
+        text: 'try to take breaks without screens: Gaze out the window (it’s good for your eyes), go for a walk (it’s good for your mind and body), grab a snack (it’s good for your energy if you’re hungry), or talk to someone (it’s usually good for your mood unless you talk to a jerk).',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2434',
+          value: 2434,
+        },
+        note: 'H.',
+      },
+      {
+        text: 'you should put on your own oxygen mask first. Even if you’re caring for someone other than a newborn, this advice is important to keep in mind. The everyday needs of another person, especially someone you love, can consume a tremendous amount of emotional and physical energy.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2582',
+          value: 2582,
+        },
+        note: 'H. L',
+      },
+      {
+        text: '1. OBSERVE what’s going on. 2. GUESS why things are happening the way they are. 3. EXPERIMENT to test your hypothesis. 4. MEASURE the results and decide whether you were right.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2596',
+          value: 2596,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Small shifts can put you in control. If you reduce a few distractions, increase your physical and mental energy just a bit, and focus your attention on one bright spot, a blah day can become extraordinary.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2652',
+          value: 2652,
+        },
+        note: 'H.g',
+      },
+      {
+        text: 'Do not ask yourself what the world needs. Ask yourself what makes you come alive, and then go do that. Because what the world needs is people who have come alive. —HOWARD THURMAN',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2677',
+          value: 2677,
+        },
+        note: 'Q',
+      },
+      {
+        text: 'As you become more aware of your priorities through choosing Highlights and increasing your focus through Laser mode, you may find new strengths and interests emerging—and also build the confidence to follow them and see where they lead. That’s exactly what happened to us.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B079SWFVPC&location=2685',
+          value: 2685,
+        },
+        note: 'Write an article about pivoting. Talk about your own experience',
+      },
+    ],
+  },
+  {
+    asin: 'B07JZW5KL2',
+    title: 'Meditations: Philosophical Contemplations of a Roman Emperor',
+    authors: 'Marcus Aurelius and George Long',
+    highlights: [
+      {
+        text: 'Give thyself time to learn something new and good, and cease to be whirled around.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07JZW5KL2&location=160',
+          value: 160,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07JZW5KL2&location=173',
+          value: 173,
+        },
+        note: 'H. G',
+      },
+      {
+        text: 'For the present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose a thing if he has it not.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07JZW5KL2&location=201',
+          value: 201,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility. For thou losest the opportunity of doing something else when thou hast such thoughts as these, What is such a person doing, and why, and what is he saying, and what is he thinking of, and what is he contriving, and whatever else of the kind makes us wander away from the observation of our own ruling power.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07JZW5KL2&location=247',
+          value: 247,
+        },
+        note: 'L. G',
+      },
+      {
+        text: 'Be cheerful also, and seek not external help nor the tranquility which others give. A man then must stand erect, not be kept erect by others.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07JZW5KL2&location=269',
+          value: 269,
+        },
+        note: 'G',
+      },
+    ],
+  },
+  {
+    asin: 'B08FF8MTM6',
+    title: 'The Almanack of Naval Ravikant: A Guide to Wealth and Happiness',
+    authors: 'Eric Jorgenson, Jack Butcher, and Tim Ferriss',
+    highlights: [
+      {
+        text: 'Books make for great friends, because the best thinkers of the last few thousand years tell you their nuggets of wisdom. [8]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=178',
+          value: 178,
+        },
+        note: null,
+      },
+      {
+        text: 'Getting rich is about knowing what to do, who to do it with, and when to do it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=202',
+          value: 202,
+        },
+        note: null,
+      },
+      {
+        text: 'If you don’t know yet what you should work on, the most important thing is to figure it out. You should not grind at a lot of hard work until you figure out what you should be working on.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=204',
+          value: 204,
+        },
+        note: null,
+      },
+      {
+        text: 'Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=213',
+          value: 213,
+        },
+        note: null,
+      },
+      {
+        text: 'You’re not going to get rich renting out your time. You must own equity—a piece of a business—to gain your financial freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=218',
+          value: 218,
+        },
+        note: null,
+      },
+      {
+        text: 'Pick an industry where you can play long-term games with long-term people.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=222',
+          value: 222,
+        },
+        note: null,
+      },
+      {
+        text: 'Learn to sell. Learn to build. If you can do both, you will be unstoppable.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=230',
+          value: 230,
+        },
+        note: null,
+      },
+      {
+        text: 'Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=234',
+          value: 234,
+        },
+        note: null,
+      },
+      {
+        text: 'Building specific knowledge will feel like play to you but will look like work to others.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=235',
+          value: 235,
+        },
+        note: null,
+      },
+      {
+        text: 'When specific knowledge is taught, it’s through apprenticeships, not schools.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=237',
+          value: 237,
+        },
+        note: null,
+      },
+      {
+        text: 'Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=238',
+          value: 238,
+        },
+        note: null,
+      },
+      {
+        text: 'Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=240',
+          value: 240,
+        },
+        note: null,
+      },
+      {
+        text: 'Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=251',
+          value: 251,
+        },
+        note: null,
+      },
+      {
+        text: 'If you can’t code, write books and blogs, record videos and podcasts.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=254',
+          value: 254,
+        },
+        note: null,
+      },
+      {
+        text: 'There is no skill called “business.” Avoid business magazines and business classes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=258',
+          value: 258,
+        },
+        note: null,
+      },
+      {
+        text: 'Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=260',
+          value: 260,
+        },
+        note: null,
+      },
+      {
+        text: 'Reading is faster than listening. Doing is faster than watching.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=261',
+          value: 261,
+        },
+        note: null,
+      },
+      {
+        text: 'You should be too busy to “do coffee” while still keeping an uncluttered calendar.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=262',
+          value: 262,
+        },
+        note: null,
+      },
+      {
+        text: 'Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=264',
+          value: 264,
+        },
+        note: null,
+      },
+      {
+        text: 'Become the best in the world at what you do. Keep redefining what you do until this is true.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=268',
+          value: 268,
+        },
+        note: null,
+      },
+      {
+        text: 'There are no get-rich-quick schemes. Those are just someone else getting rich off you.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=269',
+          value: 269,
+        },
+        note: null,
+      },
+      {
+        text: 'Almost everything in your house, in your workplace, and on the street used to be technology at one point in time. There was a time when oil was a technology that made J.D. Rockefeller rich. There was a time when cars were technology that made Henry Ford rich.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=293',
+          value: 293,
+        },
+        note: null,
+      },
+      {
+        text: 'The best jobs are neither decreed nor degreed. They are creative expressions of continuous learners in free markets.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=357',
+          value: 357,
+        },
+        note: null,
+      },
+      {
+        text: 'The most important skill for getting rich is becoming a perpetual learner.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=358',
+          value: 358,
+        },
+        note: null,
+      },
+      {
+        text: 'Basic arithmetic and numeracy are way more important in life than doing calculus.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=365',
+          value: 365,
+        },
+        note: null,
+      },
+      {
+        text: 'Knowing how to be persuasive when speaking is far more important than being an expert digital marketer or click optimizer.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=368',
+          value: 368,
+        },
+        note: null,
+      },
+      {
+        text: 'Foundations are key. It’s much better to be at 9/10 or 10/10 on foundations than to try and get super deep into things.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=368',
+          value: 368,
+        },
+        note: null,
+      },
+      {
+        text: 'You do need to be deep in something because otherwise you’ll be a mile wide and an inch deep and you won’t get what you want out of life. You can only achieve mastery in one or two things. It’s usually things you’re obsessed about. [74]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=370',
+          value: 370,
+        },
+        note: null,
+      },
+      {
+        text: 'When you find the right thing to do, when you find the right people to work with, invest deeply. Sticking with it for decades is really how you make the big returns in your relationships and in your money. So, compound interest is very important. [10]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=390',
+          value: 390,
+        },
+        note: null,
+      },
+      {
+        text: 'when you find the 1 percent of your discipline which will not be wasted, which you’ll be able to invest in for the rest of your life and has meaning to you—go all-in and forget about the rest. [10]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=407',
+          value: 407,
+        },
+        note: null,
+      },
+      {
+        text: 'Embrace accountability and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=410',
+          value: 410,
+        },
+        note: null,
+      },
+      {
+        text: 'To get rich, you need leverage. Leverage comes in labor, comes in capital, or it can come through code or media.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=411',
+          value: 411,
+        },
+        note: null,
+      },
+      {
+        text: 'If you don’t own a piece of a business, you don’t have a path towards financial freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=434',
+          value: 434,
+        },
+        note: null,
+      },
+      {
+        text: 'Owning equity in a company basically means you own the upside. When you own debt, you own guaranteed revenue streams and you own the downside. You want to own equity. If you don’t own equity in a business, your odds of making money are very slim.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=448',
+          value: 448,
+        },
+        note: null,
+      },
+      {
+        text: 'Knowledge only you know or only a small set of people knows is going to come out of your passions and your hobbies, oddly enough.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=459',
+          value: 459,
+        },
+        note: null,
+      },
+      {
+        text: 'If it entertains you now but will bore you someday, it’s a distraction. Keep looking.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=461',
+          value: 461,
+        },
+        note: null,
+      },
+      {
+        text: 'Follow your intellectual curiosity more than whatever is “hot” right now. If your curiosity ever leads you to a place where society eventually wants to go, you’ll get paid extremely well. [3]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=470',
+          value: 470,
+        },
+        note: null,
+      },
+      {
+        text: 'If they can train you to do it, then eventually they will train a computer to do it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=475',
+          value: 475,
+        },
+        note: null,
+      },
+      {
+        text: 'The final form of leverage is brand new—the most democratic form. It is: “products with no marginal cost of replication.” This includes books, media, movies, and code.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=494',
+          value: 494,
+        },
+        note: null,
+      },
+      {
+        text: 'You’re never going to get rich renting out your time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=514',
+          value: 514,
+        },
+        note: null,
+      },
+      {
+        text: 'Whenever you can in life, optimize for independence rather than pay.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=514',
+          value: 514,
+        },
+        note: null,
+      },
+      {
+        text: 'What you want in life is to be in control of your time. You want to get into a leveraged job where you control your own time and you’re tracked on the outputs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=526',
+          value: 526,
+        },
+        note: null,
+      },
+      {
+        text: 'Where you don’t necessarily want to be is a support role, like customer service. In customer service, unfortunately, inputs and outputs relate relatively close to each other, and the hours you put in matter. [10]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=541',
+          value: 541,
+        },
+        note: null,
+      },
+      {
+        text: 'If you’re looking at professions where your inputs and your outputs are highly connected, it’s going to be very hard to create wealth and make wealth for yourself in that process. [78]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=544',
+          value: 544,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want to be part of a great tech company, then you need to be able to SELL or BUILD. If you don’t do either, learn.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=545',
+          value: 545,
+        },
+        note: null,
+      },
+      {
+        text: 'Learn to sell, learn to build. If you can do both, you will be unstoppable.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=547',
+          value: 547,
+        },
+        note: null,
+      },
+      {
+        text: 'Earn with your mind, not your time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=555',
+          value: 555,
+        },
+        note: null,
+      },
+      {
+        text: 'We waste our time with short-term thinking and busywork. Warren Buffett spends a year deciding and a day acting. That act lasts decades.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=611',
+          value: 611,
+        },
+        note: null,
+      },
+      {
+        text: 'Value your time at an hourly rate, and ruthlessly spend to save time at that rate. You will never be worth more than you think you’re worth.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=625',
+          value: 625,
+        },
+        note: null,
+      },
+      {
+        text: 'Another way of thinking about something is, if you can outsource something or not do something for less than your hourly rate, outsource it or don’t do it. If you can hire someone to do it for less than your hourly rate, hire them. That even includes things like cooking. You may want to eat your healthy home cooked meals, but if you can outsource it, do that instead. [78]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=639',
+          value: 639,
+        },
+        note: null,
+      },
+      {
+        text: 'Set a very high hourly aspirational rate for yourself and stick to it. It should seem and feel absurdly high. If it doesn’t, it’s not high enough. Whatever you picked, my advice to you would be to raise it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=642',
+          value: 642,
+        },
+        note: null,
+      },
+      {
+        text: 'I would rather be a failed entrepreneur than someone who never tried. Because even a failed entrepreneur has the skill set to make it on their own. [14]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=702',
+          value: 702,
+        },
+        note: null,
+      },
+      {
+        text: '“Be a maker who makes something interesting people want. Show your craft, practice your craft, and the right people will eventually find you.” [14]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=812',
+          value: 812,
+        },
+        note: null,
+      },
+      {
+        text: 'Your real résumé is just a catalog of all your suffering.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=844',
+          value: 844,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want to make the maximum amount of money possible, if you want to get rich over your life in a deterministically predictable way, stay on the bleeding edge of trends and study technology, design, and art—become really good at something. [1]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=869',
+          value: 869,
+        },
+        note: null,
+      },
+      {
+        text: 'It’s actually really important to have empty space. If you don’t have a day or two every week in your calendar where you’re not always in meetings, and you’re not always busy, then you’re not going to be able to think.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=918',
+          value: 918,
+        },
+        note: null,
+      },
+      {
+        text: 'I also encourage taking at least one day a week (preferably two, because if you budget two, you’ll end up with one) where you just have time to think. It’s only after you’re bored you have the great ideas. It’s never going to be when you’re stressed, or busy, running around or rushed. Make the time. [7]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=921',
+          value: 921,
+        },
+        note: null,
+      },
+      {
+        text: 'Any belief you took in a package (ex. Democrat, Catholic, American) is suspect and should be re-evaluated from base principles.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=941',
+          value: 941,
+        },
+        note: null,
+      },
+      {
+        text: 'I try not to have too much I’ve pre-decided. I think creating identities and labels locks you in and keeps you from seeing the truth.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=942',
+          value: 942,
+        },
+        note: null,
+      },
+      {
+        text: 'Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. There are no permanent solutions in a dynamic system.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=953',
+          value: 953,
+        },
+        note: null,
+      },
+      {
+        text: 'I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=964',
+          value: 964,
+        },
+        note: null,
+      },
+      {
+        text: 'praise specifically, criticize generally.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=967',
+          value: 967,
+        },
+        note: null,
+      },
+      {
+        text: 'I love the blog Farnam Street because it really focuses on helping you be more accurate, an overall better decision-maker.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=981',
+          value: 981,
+        },
+        note: null,
+      },
+      {
+        text: 'What you want is principles. You want mental models.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=986',
+          value: 986,
+        },
+        note: null,
+      },
+      {
+        text: 'Microeconomics and game theory are fundamental.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1005',
+          value: 1005,
+        },
+        note: null,
+      },
+      {
+        text: 'I don’t think you can be successful in business or even navigate most of our modern capitalist society without an extremely good understanding of supply-and-demand, labor-versus-capital, game theory, and those kinds of things. [4]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1005',
+          value: 1005,
+        },
+        note: null,
+      },
+      {
+        text: 'the principal-agent problem is the single most fundamental problem in microeconomics. If you do not understand the principal-agent problem, you will not know how to navigate your way through the world.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1009',
+          value: 1009,
+        },
+        note: null,
+      },
+      {
+        text: 'If you’re going to make money, if you’re going to invest money, your basic math should be really good.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1028',
+          value: 1028,
+        },
+        note: null,
+      },
+      {
+        text: 'If you’re evenly split on a difficult decision, take the path more painful in the short term.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1055',
+          value: 1055,
+        },
+        note: null,
+      },
+      {
+        text: 'Read a lot—just read. [2]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1070',
+          value: 1070,
+        },
+        note: null,
+      },
+      {
+        text: 'Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1071',
+          value: 1071,
+        },
+        note: null,
+      },
+      {
+        text: 'Read what you love until you love to read.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1083',
+          value: 1083,
+        },
+        note: null,
+      },
+      {
+        text: 'You almost have to read the stuff you’re reading, because you’re into it. You don’t need any other reason. There’s no mission here to accomplish. Just read because you enjoy it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1084',
+          value: 1084,
+        },
+        note: null,
+      },
+      {
+        text: 'I would say for books, blogs, tweets, or whatever—anything with ideas and information and learning—the best ones to read are the ones you’re excited about reading all the time. [4]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1100',
+          value: 1100,
+        },
+        note: null,
+      },
+      {
+        text: '“As long as I have a book in my hand, I don’t feel like I’m wasting time.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1102',
+          value: 1102,
+        },
+        note: null,
+      },
+      {
+        text: 'The number of books completed is a vanity metric. As you know more, you leave more books unfinished. Focus on new concepts with predictive power.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1113',
+          value: 1113,
+        },
+        note: null,
+      },
+      {
+        text: 'Read the greats in math, science, and philosophy. Ignore your contemporaries and news. Avoid tribal identification. Put truth above social approval. [11]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1124',
+          value: 1124,
+        },
+        note: null,
+      },
+      {
+        text: 'A calm mind, a fit body, and a house full of love. These things cannot be bought. They must be earned.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1180',
+          value: 1180,
+        },
+        note: null,
+      },
+      {
+        text: 'The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1184',
+          value: 1184,
+        },
+        note: null,
+      },
+      {
+        text: 'Don’t take yourself so seriously. You’re just a monkey with a plan.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1186',
+          value: 1186,
+        },
+        note: null,
+      },
+      {
+        text: 'To me, happiness is not about positive thoughts. It’s not about negative thoughts. It’s about the absence of desire, especially the absence of desire for external things.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1212',
+          value: 1212,
+        },
+        note: null,
+      },
+      {
+        text: 'every second you have on this planet is very precious, and it’s your responsibility to make sure you’re happy and interpreting everything in the best possible way. [9]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1239',
+          value: 1239,
+        },
+        note: null,
+      },
+      {
+        text: 'When you’re young and healthy, you can do more. By doing more, you’re actually taking on more and more desires. You don’t realize this is slowly destroying your happiness.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1311',
+          value: 1311,
+        },
+        note: null,
+      },
+      {
+        text: 'Happiness is being satisfied with what you have. Success comes from dissatisfaction. Choose.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1317',
+          value: 1317,
+        },
+        note: null,
+      },
+      {
+        text: 'Confucius says you have two lives, and the second one begins when you realize you only have one.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1318',
+          value: 1318,
+        },
+        note: null,
+      },
+      {
+        text: 'The only way to actually get peace on the inside is by giving up this idea of problems. [77]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1357',
+          value: 1357,
+        },
+        note: null,
+      },
+      {
+        text: 'Do you want to actually be that person with all of their reactions, their desires, their family, their happiness level, their outlook on life, their self-image? If you’re not willing to do a wholesale, 24/7, 100 percent swap with who that person is, then there is no point in being jealous.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1379',
+          value: 1379,
+        },
+        note: null,
+      },
+      {
+        text: 'When you look at your death and you acknowledge it, rather than running away from it, it’ll bring great meaning to your life.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1492',
+          value: 1492,
+        },
+        note: null,
+      },
+      {
+        text: 'You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work. [8]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1508',
+          value: 1508,
+        },
+        note: null,
+      },
+      {
+        text: 'Your goal in life is to find the people, business, project, or art that needs you the most.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1525',
+          value: 1525,
+        },
+        note: null,
+      },
+      {
+        text: 'My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. Second, it’s my mental health. Third, it’s my spiritual health. Then, it’s my family’s health. Then, it’s my family’s wellbeing. After that, I can go out and do whatever I need to do with the rest of the world. [4]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1531',
+          value: 1531,
+        },
+        note: null,
+      },
+      {
+        text: 'I recommend meditating one hour each morning because anything less is not enough time to really get deep into it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1671',
+          value: 1671,
+        },
+        note: null,
+      },
+      {
+        text: 'The ability to singularly focus is related to the ability to lose yourself and be present, happy, and (ironically) more effective. [4]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1710',
+          value: 1710,
+        },
+        note: null,
+      },
+      {
+        text: 'The greatest superpower is the ability to change yourself.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1738',
+          value: 1738,
+        },
+        note: null,
+      },
+      {
+        text: 'inspiration is perishable. When you have inspiration, act on it right then and there. [78]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1788',
+          value: 1788,
+        },
+        note: null,
+      },
+      {
+        text: '“Set up systems, not goals.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1791',
+          value: 1791,
+        },
+        note: null,
+      },
+      {
+        text: 'Use your judgment to figure out what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1791',
+          value: 1791,
+        },
+        note: null,
+      },
+      {
+        text: 'The returns in life are being out of the herd.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1816',
+          value: 1816,
+        },
+        note: null,
+      },
+      {
+        text: 'Related to the skill of reading are the skills of mathematics and persuasion. Both skills help you to navigate through the real world.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1832',
+          value: 1832,
+        },
+        note: null,
+      },
+      {
+        text: 'You just have to know basic statistics, arithmetic, etc. You should know statistics and probability forwards and backwards and inside out. [8]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1839',
+          value: 1839,
+        },
+        note: null,
+      },
+      {
+        text: 'If you hurt other people because they have expectations of you, that’s their problem. If they have an agreement with you, it’s your problem.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1853',
+          value: 1853,
+        },
+        note: null,
+      },
+      {
+        text: 'Courage isn’t charging into a machine gun nest. Courage is not caring what other people think.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1856',
+          value: 1856,
+        },
+        note: null,
+      },
+      {
+        text: 'Value your time. It is all you have. It’s more important than your money. It’s more important than your friends. It is more important than anything. Your time is all you have. Do not waste your time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1859',
+          value: 1859,
+        },
+        note: null,
+      },
+      {
+        text: 'People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom. [11] Once you’ve truly controlled your own fate, for better or for worse, you’ll never let anyone else tell you what to do. [11]',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1870',
+          value: 1870,
+        },
+        note: null,
+      },
+      {
+        text: 'All benefits in life come from compound interest, whether in money, relationships, love, health, activities, or habits. I only want to be around people I know I’m going to be around for the rest of my life. I only want to work on things I know have long-term payout.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1938',
+          value: 1938,
+        },
+        note: null,
+      },
+      {
+        text: 'I only believe in peer relationships. I don’t believe in hierarchical relationships. I don’t want to be above anybody, and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like peer, I just don’t want to interact with them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1940',
+          value: 1940,
+        },
+        note: null,
+      },
+      {
+        text: 'Try everything, test it for yourself, be skeptical, keep what’s useful, and discard what’s not.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1972',
+          value: 1972,
+        },
+        note: null,
+      },
+      {
+        text: 'Everyone starts out innocent. Everyone is corrupted. Wisdom is the discarding of vices and the return to virtue, by way of knowledge.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1977',
+          value: 1977,
+        },
+        note: null,
+      },
+      {
+        text: '“Everything is more beautiful because we’re doomed. You will never be lovelier than you are now, and we will never be here again.” —Homer, The Iliad',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1988',
+          value: 1988,
+        },
+        note: null,
+      },
+      {
+        text: 'Inspiration is perishable—act on it immediately.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1992',
+          value: 1992,
+        },
+        note: null,
+      },
+      {
+        text: 'The democratization of technology allows anyone to be a creator, entrepreneur, scientist. The future is brighter.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=1995',
+          value: 1995,
+        },
+        note: null,
+      },
+      {
+        text: '(Since there are so many links in this section, you may prefer a digital copy. Go to Navalmanack.com to get a digital version of this chapter for your convenience.)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=2003',
+          value: 2003,
+        },
+        note: null,
+      },
+      {
+        text: '“The Day You Became a Better Writer” by Scott Adams',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=2169',
+          value: 2169,
+        },
+        note: null,
+      },
+      {
+        text: 'Best post I’ve read on “Career Decisions” (in Silicon Valley/tech) by @eladgil',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=2177',
+          value: 2177,
+        },
+        note: null,
+      },
+      {
+        text: 'Every business school should have a course on Aggregation Theory. Or learn it from the master himself, @benthompson, the best analyst in technology.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B08FF8MTM6&location=2180',
+          value: 2180,
+        },
+        note: null,
+      },
+    ],
+  },
+  {
+    asin: 'B07P79P8ST',
+    title: 'The Great Mental Models Volume 1: General Thinking Concepts',
+    authors: 'Shane Parrish and Rhiannon Beaubien',
+    highlights: [
+      {
+        text: 'I believe in the discipline of mastering the best of what other people have figured out. Charlie Munger1',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=93',
+          value: 93,
+        },
+        note: null,
+      },
+      {
+        text: 'A mental model is simply a representation of how something works.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=116',
+          value: 116,
+        },
+        note: null,
+      },
+      {
+        text: 'Multidisciplinary thinking, learning these mental models and applying them across our lives, creates less stress and more freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=131',
+          value: 131,
+        },
+        note: null,
+      },
+      {
+        text: 'When understanding is separated from reality, we lose our powers. Understanding must constantly be tested against reality and updated accordingly. This isn’t a box we can tick, a task with a definite beginning and end, but a continuous process.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=155',
+          value: 155,
+        },
+        note: null,
+      },
+      {
+        text: 'The only way you’ll know the extent to which you understand reality is to put your ideas and understanding into action.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=158',
+          value: 158,
+        },
+        note: null,
+      },
+      {
+        text: 'If you don’t test your ideas against the real world—keep contact with the earth—how can you be sure you understand?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=159',
+          value: 159,
+        },
+        note: null,
+      },
+      {
+        text: 'Our failures to update from interacting with reality spring primarily from three things: not having the right perspective or vantage point, ego-induced denial, and distance from the consequences of our decisions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=166',
+          value: 166,
+        },
+        note: null,
+      },
+      {
+        text: 'The first flaw is perspective. We have a hard time seeing any system that we are in.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=169',
+          value: 169,
+        },
+        note: null,
+      },
+      {
+        text: 'We must be open to other perspectives if we truly want to understand the results of our actions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=177',
+          value: 177,
+        },
+        note: null,
+      },
+      {
+        text: 'The second flaw is ego. Many of us tend to have too much invested in our opinions of ourselves to see the world’s feedback—the feedback we need to update our beliefs about reality.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=179',
+          value: 179,
+        },
+        note: null,
+      },
+      {
+        text: 'First, we’re so afraid about what others will say about us that we fail to put our ideas out there and subject them to criticism. This way we can always be right. Second, if we do put our ideas out there and they are criticized, our ego steps in to protect us. We become invested in defending instead of upgrading our ideas.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=181',
+          value: 181,
+        },
+        note: null,
+      },
+      {
+        text: 'The third flaw is distance. The further we are from the results of our decisions, the easier it is to keep our current views rather than update them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=184',
+          value: 184,
+        },
+        note: null,
+      },
+      {
+        text: 'As Confucius said, “A man who has committed a mistake and doesn’t correct it, is committing another mistake.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=195',
+          value: 195,
+        },
+        note: null,
+      },
+      {
+        text: 'We also tend to undervalue the elementary ideas and overvalue the complicated ones.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=199',
+          value: 199,
+        },
+        note: null,
+      },
+      {
+        text: 'Understanding only becomes useful when we adjust our behavior and actions accordingly.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=215',
+          value: 215,
+        },
+        note: null,
+      },
+      {
+        text: 'Without reflection we cannot learn. Without learning we are doomed to repeat mistakes, become frustrated when the world doesn’t work the way we want it to, and wonder why we are so busy. The cycle goes on.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=228',
+          value: 228,
+        },
+        note: null,
+      },
+      {
+        text: 'Better models mean better thinking.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=261',
+          value: 261,
+        },
+        note: null,
+      },
+      {
+        text: 'Sometimes making good decisions boils down to avoiding bad ones.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=264',
+          value: 264,
+        },
+        note: null,
+      },
+      {
+        text: 'The chief enemy of good decisions is a lack of sufficient perspectives on a problem.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=320',
+          value: 320,
+        },
+        note: null,
+      },
+      {
+        text: 'If you get into the mental habit of relating what you’re reading to the basic structure of the underlying ideas being demonstrated, you gradually accumulate some wisdom.» Charlie Munger',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=341',
+          value: 341,
+        },
+        note: null,
+      },
+      {
+        text: 'What successful people do is file away a massive, but finite, amount of fundamental, established, essentially unchanging knowledge that can be used in evaluating the infinite number of unique scenarios which show up in the real world.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=344',
+          value: 344,
+        },
+        note: null,
+      },
+      {
+        text: 'It’s not just knowing the mental models that is important. First you must learn them, but then you must use them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=346',
+          value: 346,
+        },
+        note: null,
+      },
+      {
+        text: 'When you start to understand the world better, when the whys seem less mysterious, you gain confidence in how you navigate it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=376',
+          value: 376,
+        },
+        note: null,
+      },
+      {
+        text: 'The truth is, the only way we can navigate the complexity of reality is through some sort of abstraction.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=416',
+          value: 416,
+        },
+        note: null,
+      },
+      {
+        text: 'When we mistake the map for reality, we start to think we have all the answers. We create static rules or policies that deal with the map but forget that we exist in a constantly changing world.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=425',
+          value: 425,
+        },
+        note: null,
+      },
+      {
+        text: 'When we close off or ignore feedback loops, we don’t see the terrain has changed and we dramatically reduce our ability to adapt to a changing environment.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=426',
+          value: 426,
+        },
+        note: null,
+      },
+      {
+        text: 'Reality is messy and complicated, so our tendency to simplify it is understandable. However, if the aim becomes simplification rather than understanding we start to make bad decisions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=427',
+          value: 427,
+        },
+        note: null,
+      },
+      {
+        text: 'We can’t use maps as dogma. Maps and models are not meant to live forever as static references.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=428',
+          value: 428,
+        },
+        note: null,
+      },
+      {
+        text: 'If reality has changed the map must change.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=431',
+          value: 431,
+        },
+        note: null,
+      },
+      {
+        text: '«Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.»',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=474',
+          value: 474,
+        },
+        note: null,
+      },
+      {
+        text: 'In order to use a map or model as accurately as possible, we should take three important considerations into account: Reality is the ultimate update. Consider the cartographer. Maps can influence territories.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=476',
+          value: 476,
+        },
+        note: null,
+      },
+      {
+        text: 'Understanding your circle of competence improves decision-making and outcomes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=559',
+          value: 559,
+        },
+        note: null,
+      },
+      {
+        text: 'if you don’t have at least a few years and a few failures under your belt, you cannot consider yourself competent in a circle.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=583',
+          value: 583,
+        },
+        note: null,
+      },
+      {
+        text: '“A little learning is a dangerous thing; Drink deep, or taste not the Pierian spring: There shallow draughts intoxicate the brain, And drinking largely sobers us again.”6',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=614',
+          value: 614,
+        },
+        note: null,
+      },
+      {
+        text: 'There is no shortcut to understanding. Building a circle of competence takes years of experience, of making mistakes, and of actively seeking out better methods of practice and thought.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=616',
+          value: 616,
+        },
+        note: null,
+      },
+      {
+        text: 'One of the essential requirements of a circle of competence is that you can never take it for granted. You can’t operate as if a circle of competence is a static thing, that once attained is attained for life. The world is dynamic. Knowledge gets updated, and so too must your circle.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=618',
+          value: 618,
+        },
+        note: null,
+      },
+      {
+        text: 'There are three key practices needed in order to build and maintain a circle of competence: curiosity and a desire to learn, monitoring, and feedback.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=620',
+          value: 620,
+        },
+        note: null,
+      },
+      {
+        text: '«Learn from the mistakes of others. You can’t live long enough to make them all yourself.»',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=625',
+          value: 625,
+        },
+        note: null,
+      },
+      {
+        text: 'Keeping a journal of your own performance is the easiest and most private way to give self-feedback.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=635',
+          value: 635,
+        },
+        note: null,
+      },
+      {
+        text: 'It is extremely difficult to maintain a circle of competence without an outside perspective.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=648',
+          value: 648,
+        },
+        note: null,
+      },
+      {
+        text: 'We can learn it on an as-needed basis. The way to do it, in this case, would be to defer all decisions on major spending until you’ve had time to poke around the resources you can find online and at least confirm that the mechanic isn’t making a major bluff.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=683',
+          value: 683,
+        },
+        note: null,
+      },
+      {
+        text: 'being able to identify your circle, and knowing how to move around outside of it, is so important.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=702',
+          value: 702,
+        },
+        note: null,
+      },
+      {
+        text: '«Ignorance more often begets confidence than knowledge.»',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=703',
+          value: 703,
+        },
+        note: null,
+      },
+      {
+        text: 'Falsification is the opposite of verification; you must try to show the theory is incorrect, and if you fail to do so, you actually strengthen it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=728',
+          value: 728,
+        },
+        note: null,
+      },
+      {
+        text: 'I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=760',
+          value: 760,
+        },
+        note: null,
+      },
+      {
+        text: 'First principles thinking is one of the best ways to reverse-engineer complicated situations and unleash creative possibility.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=770',
+          value: 770,
+        },
+        note: null,
+      },
+      {
+        text: 'If you know the first principles of something, you can build the rest of your knowledge around them to produce something new.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=772',
+          value: 772,
+        },
+        note: null,
+      },
+      {
+        text: 'If we never learn to take something apart, test our assumptions about it, and reconstruct it, we end up bound by what other people tell us—trapped in the way things have always been done.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=786',
+          value: 786,
+        },
+        note: null,
+      },
+      {
+        text: 'When it comes down to it, everything that is not a law of nature is just a shared belief. Money is a shared belief. So is a border. So are bitcoin. So is love. The list goes on.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=790',
+          value: 790,
+        },
+        note: null,
+      },
+      {
+        text: 'Socratic questioning generally follows this process: Clarifying your thinking and explaining the origins of your ideas. (Why do I think this? What exactly do I think?) Challenging assumptions. (How do I know this is true? What if I thought the opposite?) Looking for evidence. (How can I back this up? What are the sources?) Considering alternative perspectives. (What might others think? How do I know I am correct?) Examining consequences and implications. (What if I am wrong? What are the consequences if I am?) Questioning the original questions. (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=795',
+          value: 795,
+        },
+        note: null,
+      },
+      {
+        text: 'Socratic questioning stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=802',
+          value: 802,
+        },
+        note: null,
+      },
+      {
+        text: 'The goal of the Five Whys is to land on a “what” or “how”.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=806',
+          value: 806,
+        },
+        note: null,
+      },
+      {
+        text: 'If your “whys” result in a statement of falsifiable fact, you have hit a first principle. If they end up with a “because I said so” or ”it just is”, you know you have landed on an assumption that may be based on popular opinion, cultural myth, or dogma.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=808',
+          value: 808,
+        },
+        note: null,
+      },
+      {
+        text: 'First principles thinking helps us avoid the problem of relying on someone else’s tactics without understanding the rationale behind them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=840',
+          value: 840,
+        },
+        note: null,
+      },
+      {
+        text: 'when we start with the idea that the way things are might not be the way they have to be, we put ourselves in the right frame of mind to identify first principles.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=856',
+          value: 856,
+        },
+        note: null,
+      },
+      {
+        text: 'The real power of first principles thinking is moving away from random change and into choices that have a real possibility of success.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=857',
+          value: 857,
+        },
+        note: null,
+      },
+      {
+        text: '«As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.»',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=873',
+          value: 873,
+        },
+        note: null,
+      },
+      {
+        text: 'Much like the scientific method, a thought experiment generally has the following steps: Ask a question Conduct background research Construct hypothesis Test with (thought) experiments Analyze outcomes and draw conclusions Compare to hypothesis and adjust accordingly (new question, etc.)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=909',
+          value: 909,
+        },
+        note: null,
+      },
+      {
+        text: 'Thought experiments tell you about the limits of what you know and the limits of what you should attempt. In order to improve our decision-making and increase our chances of success, we must be willing to probe all of the possibilities we can think of.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1029',
+          value: 1029,
+        },
+        note: null,
+      },
+      {
+        text: 'Thought experiments are not daydreams. They require both rigor and work. But the more you use them, the more you understand actual cause and effect, and the more knowledge you have of what can really be accomplished.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1030',
+          value: 1030,
+        },
+        note: null,
+      },
+      {
+        text: 'If we’re interested in understanding how the world really works, we must include second and subsequent effects. We must be as observant and honest as we can about the web of connections we are operating in. How often is short-term gain worth protracted long-term pain?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1102',
+          value: 1102,
+        },
+        note: null,
+      },
+      {
+        text: 'Cleopatra: A Life, Stacy Schiff',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1127',
+          value: 1127,
+        },
+        note: null,
+      },
+      {
+        text: 'second-order thinking is so useful and valuable. Going for the immediate payoff in our interactions with people, unless they are a win-win, almost always guarantees that interaction will be a one-off. Maximizing benefits is something that happens over time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1141',
+          value: 1141,
+        },
+        note: null,
+      },
+      {
+        text: 'Constructing an effective argument: Second-order thinking can help you avert problems and anticipate challenges that you can then address in advance.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1153',
+          value: 1153,
+        },
+        note: null,
+      },
+      {
+        text: 'For example, most of us have to construct arguments every day. Convincing your boss to take a chance on a new form of outreach, convincing your spouse to try a new parenting technique. Life is filled with the need to be persuasive. Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1154',
+          value: 1154,
+        },
+        note: null,
+      },
+      {
+        text: 'Second-order thinking needs to evaluate the most likely effects and their most likely consequences, checking our understanding of what the typical results of our actions will be.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1179',
+          value: 1179,
+        },
+        note: null,
+      },
+      {
+        text: 'We don’t make decisions in a vacuum and we can’t get something for nothing. When making choices, considering consequences can help us avoid future problems. We must ask ourselves the critical question: And then what?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1183',
+          value: 1183,
+        },
+        note: null,
+      },
+      {
+        text: 'A little time spent thinking ahead can save us massive amounts of time later.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1187',
+          value: 1187,
+        },
+        note: null,
+      },
+      {
+        text: 'Bayesian updating, as it can be called) is this: given that we have limited but useful information about the world, and are constantly encountering new information, we should probably take into account what we already know when we learn',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1221',
+          value: 1221,
+        },
+        note: null,
+      },
+      {
+        text: 'When making uncertain decisions, it’s nearly always a mistake not to ask: What are the relevant priors? What might I already know that I can use to better understand the reality of the situation?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1239',
+          value: 1239,
+        },
+        note: null,
+      },
+      {
+        text: 'using conditional probability means being very careful to observe the conditions preceding an event you’d like to understand.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1250',
+          value: 1250,
+        },
+        note: null,
+      },
+      {
+        text: 'the world is fundamentally unpredictable and volatile, and large events—panics, crashes, wars, bubbles, and so on—tend to have a disproportionate impact on outcomes. There are two ways to handle such a world: try to predict, or try to prepare.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1295',
+          value: 1295,
+        },
+        note: null,
+      },
+      {
+        text: 'The second thing we can do is to learn how to fail properly.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1305',
+          value: 1305,
+        },
+        note: null,
+      },
+      {
+        text: 'Failing properly has two major components. First, never take a risk that will do you in completely. (Never get taken out of the game completely.) Second, develop the personal resilience to learn from your failures and start again.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1306',
+          value: 1306,
+        },
+        note: null,
+      },
+      {
+        text: 'No one likes to fail. It hurts. But failure carries with it one huge antifragile gift: learning.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1308',
+          value: 1308,
+        },
+        note: null,
+      },
+      {
+        text: 'Those who are not afraid to fail (properly) have a huge advantage over the rest. What they learn makes them less vulnerable to the volatility of the world. They benefit from it, in true antifragile fashion.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1308',
+          value: 1308,
+        },
+        note: null,
+      },
+      {
+        text: 'Whenever possible, try to create scenarios where randomness and uncertainty are your friends, not your enemies.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1313',
+          value: 1313,
+        },
+        note: null,
+      },
+      {
+        text: 'Avoiding stupidity is easier than seeking brilliance. Combining the ability to think forward and backward allows you to see reality from multiple angles.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1434',
+          value: 1434,
+        },
+        note: null,
+      },
+      {
+        text: 'There are two approaches to applying inversion in your life. Start by assuming that what you’re trying to prove is either true or false, then show what else would have to be true. Instead of aiming directly for your goal, think deeply about what you want to avoid and then see what options are left over.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1435',
+          value: 1435,
+        },
+        note: null,
+      },
+      {
+        text: 'Identify the problem Define your objective Identify the forces that support change towards your objective Identify the forces that impede change towards the objective Strategize a solution! This may involve both augmenting or adding to the forces in step 3, and reducing or eliminating the forces in step 4.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1519',
+          value: 1519,
+        },
+        note: null,
+      },
+      {
+        text: 'Using inversion to identify your end goal and work backward from there can lead to innovation.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1538',
+          value: 1538,
+        },
+        note: null,
+      },
+      {
+        text: 'Simpler explanations are more likely to be true than complicated ones. This is the essence of Occam’s Razor,',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1580',
+          value: 1580,
+        },
+        note: null,
+      },
+      {
+        text: 'focusing on simplicity when all others are focused on complexity is a hallmark of genius, and it’s easier said than done. But always remembering that a simpler explanation is more likely to be correct than a complicated one goes a long way towards helping us conserve our most precious resources of time and energy.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1699',
+          value: 1699,
+        },
+        note: null,
+      },
+      {
+        text: 'I need to listen well so that I hear what is not said.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1704',
+          value: 1704,
+        },
+        note: null,
+      },
+      {
+        text: 'By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1713',
+          value: 1713,
+        },
+        note: null,
+      },
+      {
+        text: 'we’re deeply affected by vivid, available evidence, to such a degree that we’re willing to make judgments that violate simple logic.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1734',
+          value: 1734,
+        },
+        note: null,
+      },
+      {
+        text: 'When we see something we don’t like happen and which seems wrong, we assume it’s intentional. But it’s more likely that it’s completely unintentional.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1739',
+          value: 1739,
+        },
+        note: null,
+      },
+      {
+        text: 'Most people doing wrong are not bad people trying to be malicious.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07P79P8ST&location=1741',
+          value: 1741,
+        },
+        note: null,
+      },
+    ],
+  },
+  {
+    asin: 'B00OTU5K4I',
+    title:
+      'The Inner Game of Tennis: The Ultimate Guide to the Mental Side of Peak Performance',
+    authors: 'W Timothy Gallwey',
+    highlights: [
+      {
+        text: 'The player of the inner game comes to value the art of relaxed concentration above all other skills; he discovers a true basis for self-confidence; and he learns that the secret to winning any game lies in not trying too hard.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=126',
+          value: 126,
+        },
+        note: '?',
+      },
+      {
+        text: 'images are better than words, showing better than telling, too much instruction worse than none, and that trying often produces negative results. One question perplexed me: What’s wrong with',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=188',
+          value: 188,
+        },
+        note: 'g. H',
+      },
+      {
+        text: 'IT IS THE CONSTANT “THINKING” activity of Self 1, the ego-mind, which causes interference with the natural capabilities of Self 2. Harmony between the two selves exists when this mind is quiet and focused. Only then can peak performance be reached.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=279',
+          value: 279,
+        },
+        note: 'G',
+      },
+      {
+        text: '“getting it together” requires slowing the mind. Quieting the mind means less thinking, calculating, judging, worrying, fearing, hoping, trying, regretting, controlling, jittering or distracting.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=314',
+          value: 314,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The first skill to learn is the art of letting go the human inclination to judge ourselves and our performance as either good or bad. Letting go of the judging process is a basic key to the Inner Game; its meaning will emerge as you read the remainder of this chapter. When we unlearn how to be judgmental, it is possible to achieve spontaneous, focused play.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=322',
+          value: 322,
+        },
+        note: 'Gt',
+      },
+      {
+        text: 'letting go of judgments does not mean ignoring errors. It simply means seeing events as they are and not adding anything to them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=371',
+          value: 371,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Judgment results in tightness, and tightness interferes with the fluidity required for accurate and quick movement. Relaxation produces smooth strokes and results from accepting your strokes as they are, even if erratic.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=380',
+          value: 380,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The first step is to see your strokes as they are. They must be perceived clearly. This can be done only when personal judgment is absent. As soon as a stroke is seen clearly and accepted as it is, a natural and speedy process of change begins.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=393',
+          value: 393,
+        },
+        note: 'G',
+      },
+      {
+        text: 'When the mind is free of any thought or judgment, it is still and acts like a mirror. Then and only then can we know things as they are.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=439',
+          value: 439,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Feeling where it is is knowing where it is.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=448',
+          value: 448,
+        },
+        note: 'G',
+      },
+      {
+        text: 'I have found that the most beneficial first step is to encourage him to see and feel what he is doing—that is, to increase his awareness of what actually is.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=449',
+          value: 449,
+        },
+        note: 'G',
+      },
+      {
+        text: 'to see things as they are, we must take off our judgmental glasses, whether they’re dark or rose-tinted. This action unlocks a process of natural development which is as surprising as it is beautiful.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=451',
+          value: 451,
+        },
+        note: 'G',
+      },
+      {
+        text: 'To discover this natural learning process, it is necessary to let go of the old process of correcting faults; that is, it is necessary to let go of judgment and see what happens.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=479',
+          value: 479,
+        },
+        note: 'G',
+      },
+      {
+        text: 'To see your strokes as they are, there is no need to attribute goodness or badness to them. The same goes for the results of your strokes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=522',
+          value: 522,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The trick is not to identify with the backhand. If you view an erratic backhand as a reflection of who you are, you will be upset.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=626',
+          value: 626,
+        },
+        note: 'G',
+      },
+      {
+        text: 'If a mother identifies with every fall of her child and takes personal pride in its every success, her self-image will be as unstable as her child’s balance. She finds stability when she realizes that she is not her child, and watches it with love and interest—but as a separate being.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=627',
+          value: 627,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Remember that you are not your tennis game. You are not your body. Trust the body to learn and to play, as you would trust another person to do a job, and in a short time it will perform beyond your expectations. Let the flower grow.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=630',
+          value: 630,
+        },
+        note: 'G',
+      },
+      {
+        text: 'if your body knows how to hit a forehand, then just let it happen; if it doesn’t, then let it learn.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=638',
+          value: 638,
+        },
+        note: 'G',
+      },
+      {
+        text: 'To Self 2, a picture is worth a thousand words. It learns by watching the actions of others, as well as by performing actions itself.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=664',
+          value: 664,
+        },
+        note: 'G',
+      },
+      {
+        text: 'The benefits to your game come not from analyzing the strokes of top players, but from concentrating without thinking and simply letting yourself absorb the images before you.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=666',
+          value: 666,
+        },
+        note: 'G',
+      },
+      {
+        text: 'the native tongue of Self 2 is imagery: sensory images. Movements are learned through visual and feeling images.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=679',
+          value: 679,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Getting the clearest possible image of your desired outcomes is a most useful method for communicating with Self 2,',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=701',
+          value: 701,
+        },
+        note: null,
+      },
+      {
+        text: '',
+        isNoteOnly: true,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=701',
+          value: 701,
+        },
+        note: 'G',
+      },
+      {
+        text: 'It is important not only to understand intellectually the difference between letting it happen and making it happen, but to experience the difference.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=719',
+          value: 719,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Letting go of judgments, the art of creating images and “letting it happen” are three of the basic skills involved in the Inner Game.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=790',
+          value: 790,
+        },
+        note: 'G',
+      },
+      {
+        text: 'quieting the thinking mind by letting go of mental self-instructions, focusing attention and trusting the body to do what it is capable of doing.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=795',
+          value: 795,
+        },
+        note: 'G',
+      },
+      {
+        text: 'there is no substitute for learning from experience.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=854',
+          value: 854,
+        },
+        note: 'G. L',
+      },
+      {
+        text: 'Natural learning is and always will be from the inside out, not vice versa. You are the learner and it is your individual, internal learning process that ultimately governs your learning.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1064',
+          value: 1064,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Once you learn how to learn, you have only to discover what is worth learning.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1106',
+          value: 1106,
+        },
+        note: 'g',
+      },
+      {
+        text: 'Step 1: Nonjudgmental Observation',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1152',
+          value: 1152,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Step 2: Picture the Desired Outcome',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1171',
+          value: 1171,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Step 3: Trust Self 2',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1177',
+          value: 1177,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Step 4: Nonjudgmental Observation of Change and Results',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1192',
+          value: 1192,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Fighting the mind does not work. What works best is learning to focus it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1262',
+          value: 1262,
+        },
+        note: 'G',
+      },
+      {
+        text: 'To still the mind one must learn to put it somewhere. It cannot just be let go; it must be focused.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1277',
+          value: 1277,
+        },
+        note: 'G.',
+      },
+      {
+        text: 'As one achieves focus, the mind quiets. As the mind is kept in the present, it becomes calm. Focus means keeping the mind now and here.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1279',
+          value: 1279,
+        },
+        note: 'G',
+      },
+      {
+        text: 'So the question arises as to how to maintain focus for extended periods of time. The best way is to allow yourself to get interested in the ball. How do you do this? By not thinking you already know all about it, no matter how many thousands of balls you have seen in your life.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1303',
+          value: 1303,
+        },
+        note: 'G. Can be applied to everything',
+      },
+      {
+        text: 'Perhaps the most simple and effective means of focus I found was a very simple exercise I called “Bounce-Hit.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1307',
+          value: 1307,
+        },
+        note: 'Apply to basketbal?',
+      },
+      {
+        text: 'Focus is not achieved by staring hard at something. It is not trying to force focus, nor does it mean thinking hard about something. Natural focus occurs when the mind is interested.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1328',
+          value: 1328,
+        },
+        note: 'G',
+      },
+      {
+        text: 'How to stay concentrated in the here and now between points? My own device, and one that has been effective for many of my students, is to focus attention on breathing. Some object or activity which is always present is needed. What is more here and now than one’s breathing? Putting attention on breathing simply means observing my breath going in, going out, going in, going out in its natural rhythm. It does not mean intentionally controlling my breath.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1475',
+          value: 1475,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Abraham Maslow and Carl Rogers in',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1676',
+          value: 1676,
+        },
+        note: 'Check these people out',
+      },
+      {
+        text: 'Winning is overcoming obstacles to reach a goal, but the value in winning is only as great as the value of the goal reached.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1802',
+          value: 1802,
+        },
+        note: 'G',
+      },
+      {
+        text: 'Perhaps the most indispensable tool for human beings in modern times is the ability to remain calm in the midst of rapid and unsettling changes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1880',
+          value: 1880,
+        },
+        note: 'H. G',
+      },
+      {
+        text: 'The cause of most stress can be summed up by the word attachment.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1904',
+          value: 1904,
+        },
+        note: 'H. G',
+      },
+      {
+        text: 'Stability grows as I learn to accept what I cannot control and take control of what I can.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B00OTU5K4I&location=1954',
+          value: 1954,
+        },
+        note: 'G',
+      },
+    ],
+  },
+  {
+    asin: 'B07DC3WRKT',
+    title: 'The Mamba Mentality: How I Play',
+    authors: 'Kobe Bryant, Pau Gasol, Phil Jackson, and Andrew D. Bernstein',
+    highlights: [
+      {
+        text: 'you want to be a better player, you have to prepare, prepare, and prepare some more.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=56',
+          value: 56,
+        },
+        note: null,
+      },
+      {
+        text: 'Kobe knew that to be the best you need a different approach from everyone else.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=63',
+          value: 63,
+        },
+        note: null,
+      },
+      {
+        text: '“basketball is an easy game to play, but a difficult game to master.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=83',
+          value: 83,
+        },
+        note: null,
+      },
+      {
+        text: 'always kept the end result, the long game, in my mind. I always focused on the fact that I had to try something to get it, and once I got it, I’d have another tool in my arsenal. If the price was a lot of work and a few missed shots, I was OK with that.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=146',
+          value: 146,
+        },
+        note: null,
+      },
+      {
+        text: 'Stick with what works, even if it’s unpopular.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=165',
+          value: 165,
+        },
+        note: null,
+      },
+      {
+        text: 'Some people, after all, enjoy looking at a watch; others are happier figuring out how the watch works.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=178',
+          value: 178,
+        },
+        note: null,
+      },
+      {
+        text: 'By reading, by paying attention in class and in practice, by working, I strengthened my focus. By doing all of that, I strengthened my ability to be present and not have a wandering mind.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=186',
+          value: 186,
+        },
+        note: null,
+      },
+      {
+        text: 'Just as important as reading was cultivating relationships with the greats who’d come before me.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=188',
+          value: 188,
+        },
+        note: null,
+      },
+      {
+        text: 'That’s why I think it’s so important to have those mentors, those north stars, who you learn from and look up to.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=190',
+          value: 190,
+        },
+        note: null,
+      },
+      {
+        text: 'The key, though, is being aware of how you’re feeling and how you need to be feeling. It all starts with awareness.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=198',
+          value: 198,
+        },
+        note: null,
+      },
+      {
+        text: 'you really want to be great at something, you have to truly care about it. If you want to be great in a particular area, you have to obsess over it. A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness. They have other concerns, whether important or not, and they spread themselves out. That’s totally fine. After all, greatness is not for everybody.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=200',
+          value: 200,
+        },
+        note: null,
+      },
+      {
+        text: 'you have to have an understanding circle of family and friends.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=205',
+          value: 205,
+        },
+        note: null,
+      },
+      {
+        text: 'People don’t always understand just how much effort from how many people goes into one person chasing a dream to be great.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=205',
+          value: 205,
+        },
+        note: null,
+      },
+      {
+        text: 'There’s a fine balance between obsessing about your craft and being there for your family.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=206',
+          value: 206,
+        },
+        note: null,
+      },
+      {
+        text: 'You can’t achieve greatness by walking a straight line.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=209',
+          value: 209,
+        },
+        note: null,
+      },
+      {
+        text: 'I always listened to my body. That’s the best advice I can give: listen to your body, and warm up with purpose.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=218',
+          value: 218,
+        },
+        note: null,
+      },
+      {
+        text: 'My cardio workouts centered around recovery—that is, the time it takes to recover in between sprints.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=227',
+          value: 227,
+        },
+        note: null,
+      },
+      {
+        text: 'always found that short 15-minute catnaps gave me all the energy I’d need for peak performance.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=246',
+          value: 246,
+        },
+        note: null,
+      },
+      {
+        text: 'BREAKDOWN IS AS IMPORTANT AS SETUP.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=249',
+          value: 249,
+        },
+        note: null,
+      },
+      {
+        text: 'Pain in one area of your body often stems from an imbalance somewhere else. With that in mind, it’s important to treat the root cause and not the effect.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=267',
+          value: 267,
+        },
+        note: null,
+      },
+      {
+        text: 'MY ROUTINE CHANGED OVER TIME; MY APPROACH DIDN’T.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=284',
+          value: 284,
+        },
+        note: null,
+      },
+      {
+        text: 'The only aspect that can’t change, though, is that obsession. You have to enter every activity, every single time, with a want and need to do it to the best of your ability.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=287',
+          value: 287,
+        },
+        note: null,
+      },
+      {
+        text: 'One of the most important aspects of the game is listening to your body, and preparing it accordingly. I always kept that in mind.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=316',
+          value: 316,
+        },
+        note: null,
+      },
+      {
+        text: 'have to work hard in the dark to shine in the light.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=365',
+          value: 365,
+        },
+        note: null,
+      },
+      {
+        text: 'The mindset isn’t about seeking a result—it’s more about the process of getting to that result. It’s about the journey and the approach. It’s a way of life. I do think that it’s important, in all endeavors, to have that mentality.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=580',
+          value: 580,
+        },
+        note: null,
+      },
+      {
+        text: 'What separates great players from all-time great players is their ability to self-assess, diagnose weaknesses, and turn those flaws into strengths.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B07DC3WRKT&location=1125',
+          value: 1125,
+        },
+        note: null,
+      },
+    ],
+  },
+  {
+    asin: 'B004BDOUAI',
+    title:
+      'The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime',
+    authors: 'MJ DeMarco',
+    highlights: [
+      {
+        text: 'If you want to keep getting what you’re getting, keep doing what you’re doing.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=144',
+          value: 144,
+        },
+        note: null,
+      },
+      {
+        text: 'you have to unlearn what you have learned.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=154',
+          value: 154,
+        },
+        note: null,
+      },
+      {
+        text: '“Get Rich Slow” is a losing game because it is codependent on Wall Street and anchored by your time.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=374',
+          value: 374,
+        },
+        note: null,
+      },
+      {
+        text: 'The real golden years of life are when you’re young, sentient, and vibrant.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=376',
+          value: 376,
+        },
+        note: null,
+      },
+      {
+        text: 'The object of life is not to be on the side of the masses, but to escape finding oneself in the ranks of the insane. ~ Marcus Aurelius',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=379',
+          value: 379,
+        },
+        note: null,
+      },
+      {
+        text: 'Wealth is a process, not an event.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=724',
+          value: 724,
+        },
+        note: null,
+      },
+      {
+        text: 'Wealth eludes most people because they are preoccupied with events while disregarding process. Without process, there is no event.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=728',
+          value: 728,
+        },
+        note: null,
+      },
+      {
+        text: 'Yes, the elevator to success is out-of-order—you will need to climb the stairs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=755',
+          value: 755,
+        },
+        note: null,
+      },
+      {
+        text: 'Your roads are the career pathways you travel. For example, you can travel the job road, and within that road you have unlimited choices: You can be an engineer, a project manager, a physician, a plumber, a truck driver. Then there are entrepreneurial roads: You can be a real estate investor, a retail store owner, a franchiser, a freelancer, or an inventor.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=771',
+          value: 771,
+        },
+        note: null,
+      },
+      {
+        text: 'If you resist the toll, wealth will resist you.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=780',
+          value: 780,
+        },
+        note: null,
+      },
+      {
+        text: 'The Fastlane process demands sacrifices that few make, to resolve to live like few can.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=793',
+          value: 793,
+        },
+        note: null,
+      },
+      {
+        text: 'If you don’t know where you are going, how will you know if you get there? An undefined destination means an undefined arrival.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=812',
+          value: 812,
+        },
+        note: null,
+      },
+      {
+        text: 'The Sidewalk >— Poverty The Slowlane >—​ Mediocrity The Fastlane >—​ Wealth Whichever financial roadmap you follow will predispose you to the destination inherent in the roadmap—the roadmap’s “true essence.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=837',
+          value: 837,
+        },
+        note: null,
+      },
+      {
+        text: 'If you’re older than 35 and you have less than $19,000 in net worth let me be blunt: What you are doing isn’t working. You need a new roadmap.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=968',
+          value: 968,
+        },
+        note: null,
+      },
+      {
+        text: 'inheritance is not a financial plan!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1041',
+          value: 1041,
+        },
+        note: null,
+      },
+      {
+        text: 'The first step to escape the Sidewalk is recognizing that you might be on it . . . then replace it with something that works!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1044',
+          value: 1044,
+        },
+        note: null,
+      },
+      {
+        text: 'Financial discipline is blind to income.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1083',
+          value: 1083,
+        },
+        note: null,
+      },
+      {
+        text: 'More money doesn’t buy financial discipline.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1088',
+          value: 1088,
+        },
+        note: null,
+      },
+      {
+        text: 'call the three fundamental “F’s”: family (relationships), fitness (health), and freedom (choice). Within this wealth trinity is where you will find true wealth and, yes, happiness.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1128',
+          value: 1128,
+        },
+        note: null,
+      },
+      {
+        text: 'Priorities: Some want to look rich, others want to be rich.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1186',
+          value: 1186,
+        },
+        note: null,
+      },
+      {
+        text: 'Money can’t buy happiness, but it can make you awfully comfortable while you’re being miserable. ~ Clare Boothe Luce',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1220',
+          value: 1220,
+        },
+        note: null,
+      },
+      {
+        text: 'The fact is, there are many millionaires and well paid career folks who are absolutely miserable, and it has nothing to do with the money. It has to do with their freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1240',
+          value: 1240,
+        },
+        note: null,
+      },
+      {
+        text: 'Normal is modern-day slavery.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1263',
+          value: 1263,
+        },
+        note: null,
+      },
+      {
+        text: 'To overcome wealth impersonation, know what you can and can’t afford.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1328',
+          value: 1328,
+        },
+        note: null,
+      },
+      {
+        text: 'Process creates events that others see as luck.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1389',
+          value: 1389,
+        },
+        note: null,
+      },
+      {
+        text: 'Like wealth, luck is not an event but the residue of process.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1402',
+          value: 1402,
+        },
+        note: null,
+      },
+      {
+        text: 'you can’t be a victim if you don’t relinquish power to someone capable of making you a victim.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1495',
+          value: 1495,
+        },
+        note: null,
+      },
+      {
+        text: 'I am okay with people making mistakes—but freaking own that you made a mistake and learn from it. That’s what true accountability and responsibility is all about.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1560',
+          value: 1560,
+        },
+        note: null,
+      },
+      {
+        text: 'Stop being a victim by taking responsibility, followed by accountability.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1572',
+          value: 1572,
+        },
+        note: null,
+      },
+      {
+        text: 'take the damn driver’s seat to your life!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1594',
+          value: 1594,
+        },
+        note: null,
+      },
+      {
+        text: 'Has making a living made you so apathetic that the living has been sucked out of you?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1762',
+          value: 1762,
+        },
+        note: null,
+      },
+      {
+        text: 'Wealth’s provenance evolves from the three Fs: family, fitness, and freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1770',
+          value: 1770,
+        },
+        note: null,
+      },
+      {
+        text: 'Experience comes from what you do in life, not from what you do in a job. You don’t need a job to get experience.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=1991',
+          value: 1991,
+        },
+        note: null,
+      },
+      {
+        text: 'A job seals your fate into a criminal time trade: five days of life traded for two days of freedom. A job chains you to a set grade of experience. A job takes away your control. A job forces you to work with people you can’t stand. A job forces you to get paid last. A job imposes a dictatorship on your income. These limitations are counter-insurgencies to wealth. Still want a job?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2047',
+          value: 2047,
+        },
+        note: null,
+      },
+      {
+        text: 'I’d rather live in regret of failure than in regret of never trying. ~ MJ DeMarco',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2609',
+          value: 2609,
+        },
+        note: null,
+      },
+      {
+        text: 'The Slowlane is predisposed to mediocrity because the numbers are always mediocre.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2686',
+          value: 2686,
+        },
+        note: null,
+      },
+      {
+        text: 'Income explosion and relative expense containment created wealth.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2710',
+          value: 2710,
+        },
+        note: null,
+      },
+      {
+        text: 'Slowlane millionaires make millions in 30 years or more. Fastlane millionaires make millions in 10 years or less.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2807',
+          value: 2807,
+        },
+        note: null,
+      },
+      {
+        text: 'The Fastlane isn’t about becoming the next middle-class millionaire with tiresome mandates about what you cannot do; it’s about what you can do.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2832',
+          value: 2832,
+        },
+        note: null,
+      },
+      {
+        text: 'Raffle Sidewalk: First prize: $50,000,000 awarded immediately. => Your odds of winning: 1 in 6 million (.0000016%) Raffle Slowlane: First prize: $500,000 awarded in 40 years. => Your odds of winning: 1 in 6 (16%) Raffle Fastlane: First prize: $10,000,000 awarded in 6 years. => Your odds of winning: 1 in 9 (11%)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2865',
+          value: 2865,
+        },
+        note: null,
+      },
+      {
+        text: 'The YouTuber with thousands of subscribers who monetizes it into a subscription service or a product offering.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2980',
+          value: 2980,
+        },
+        note: null,
+      },
+      {
+        text: 'The guy who builds a cell phone application and sells it 50,000 times.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=2982',
+          value: 2982,
+        },
+        note: null,
+      },
+      {
+        text: '“Azur, you’re short-sightedness and thirst for wealth have clouded your vision. You build your pyramid and I will build mine.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3039',
+          value: 3039,
+        },
+        note: null,
+      },
+      {
+        text: 'The Fastlane is about building a better system, a better contraption, a better product, or a better “something” that will leverage your work.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3085',
+          value: 3085,
+        },
+        note: null,
+      },
+      {
+        text: 'The winning team is Team Producer. Reshape life’s focus on producing, not consuming.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3116',
+          value: 3116,
+        },
+        note: null,
+      },
+      {
+        text: 'Yes, become a producer first and a consumer second. Applied, this means instead of buying products on TV, sell products. Instead of digging for gold, sell shovels. Instead of taking a class, offer a class. Instead of borrowing money, lend it. Instead of taking a job, hire for jobs. Instead of taking a mortgage, hold a mortgage. Break free from consumption, switch sides, and reorient to the world as producer.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3119',
+          value: 3119,
+        },
+        note: null,
+      },
+      {
+        text: 'Remember, the rich are a minority, and you want to be in that minority. It starts with a producer mindset.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3126',
+          value: 3126,
+        },
+        note: null,
+      },
+      {
+        text: 'To consume richly, produce richly first.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3139',
+          value: 3139,
+        },
+        note: null,
+      },
+      {
+        text: 'To switch teams and become a producer, you need to be an entrepreneur and an innovator. You need to be a visionary and a creator. You need to give birth to a business and offer the world value.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3144',
+          value: 3144,
+        },
+        note: null,
+      },
+      {
+        text: 'Below is a list of average multiples per respective industry.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3332',
+          value: 3332,
+        },
+        note: null,
+      },
+      {
+        text: 'Then for the next several years I manipulated the asset and increased its value. ✓- I expanded my customer base by 30%. ✓- I reduced expenses, improving profitability. ✓- I streamlined operations, which created passivity. ✓- I elevated “net income.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3416',
+          value: 3416,
+        },
+        note: null,
+      },
+      {
+        text: 'bought an asset for $250,000, appreciated and manipulated the variables, and then sold it for millions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3422',
+          value: 3422,
+        },
+        note: null,
+      },
+      {
+        text: 'Money trees are business systems that survive on their own. They require periodic support and nurturing but survive on their own, creating a surrogate for your time-for-money trade.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3495',
+          value: 3495,
+        },
+        note: null,
+      },
+      {
+        text: 'There are five business seedlings to money trees. Mind you, these aren’t absolute and can intersect with one another. Each system inherently has a grade that rates its level of passivity. A higher grade means a greater potential for passivity, but not necessarily a greater income. 1)​Rental Systems 2)​Computer/Software Systems 3)​Content Systems 4)​Distribution Systems 5)​Human Resource Systems',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3522',
+          value: 3522,
+        },
+        note: null,
+      },
+      {
+        text: 'Change creates millionaires. Those who see the changes and take advantage of it will become the new millionaires and billionaires. And because change is constant, millionaire opportunities also remain constant.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3595',
+          value: 3595,
+        },
+        note: null,
+      },
+      {
+        text: 'When inventing any product, the invention is always half the battle. Distribution is the other. The greatest product in the world goes unused if it isn’t leveraged into the proper distribution system—either one that exists, or one that you create.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3606',
+          value: 3606,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want to make millions or billions, human resource systems (employees) will be needed. While solopreneurs can make a lot of money, you can’t do everything yourself. At some point, managing your time and growth has to take precedence.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3657',
+          value: 3657,
+        },
+        note: null,
+      },
+      {
+        text: '“Thanks to municipals and treasuries, I never have to work another day of my life.”  Another piece of the wealth puzzle solved.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3690',
+          value: 3690,
+        },
+        note: null,
+      },
+      {
+        text: 'If you have a lot of money, you’re given the gate key to switch teams from consumer to producer. Specifically, you move from borrower to lender. You move from employee to employer. You move from customer to owner. In other words, people pay you to use YOUR MONEY in the form of interest or ownership.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3698',
+          value: 3698,
+        },
+        note: null,
+      },
+      {
+        text: 'While the act of becoming a lender sounds complicated, it isn’t. Anytime you buy a certificate of deposit from a bank, you become a lender. Anytime you buy a municipal bond, either directly from the source or indirectly via mutual fund, you become a lender. When you deposit money in the bank, you become a lender. As a lender, you don’t administer the loans; you just sit back and collect checks. It’s super easy and super passive. Gary, my rich limousine passenger, was a lender who never had to work another day in his life.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3703',
+          value: 3703,
+        },
+        note: null,
+      },
+      {
+        text: 'Instead of trading my time for dollars, I invested my time into an autonomous system simultaneously capable of passivity and capable of funding my money system. It was a dual-flanked attack where passive income was both the short and long term goal.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3737',
+          value: 3737,
+        },
+        note: null,
+      },
+      {
+        text: 'Every dollar saved is another freedom fighter in your army. If your money is fighting for you, your time is freed and you break the equation of “time for money.” Money is your army. The more you have, the more they will fight for freedom.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3741',
+          value: 3741,
+        },
+        note: null,
+      },
+      {
+        text: 'Slowlaners focus on the expense variable in the wealth equation when they should be focused on the income variable. Income is the key to growing your army of freedom fighters.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3743',
+          value: 3743,
+        },
+        note: null,
+      },
+      {
+        text: 'Compound interest pays me a lot of money. It’s a tool I use. It’s a great passive income source. Yet, compound interest is not responsible for my wealth.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3757',
+          value: 3757,
+        },
+        note: null,
+      },
+      {
+        text: 'Now transform the previous chart and replace the days with YEARS. Make day-one a person—you—at 21 years old.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3775',
+          value: 3775,
+        },
+        note: null,
+      },
+      {
+        text: 'A 5% tax-free yield on $10 million suddenly creates a $500,000 per year passive income.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3801',
+          value: 3801,
+        },
+        note: null,
+      },
+      {
+        text: 'As for earning your $10 million (or more), that solution lies in exponential leveraged growth stemming from a Fastlane business—net income plus asset value—NOT in expenses, NOT in the stock market, and NOT in a job.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3805',
+          value: 3805,
+        },
+        note: null,
+      },
+      {
+        text: 'Math is law.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3830',
+          value: 3830,
+        },
+        note: null,
+      },
+      {
+        text: 'The Law of Effection states that the more lives you affect in an entity you control, in scale and/or magnitude, the richer you will become.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3864',
+          value: 3864,
+        },
+        note: null,
+      },
+      {
+        text: 'Impact millions and make millions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3873',
+          value: 3873,
+        },
+        note: null,
+      },
+      {
+        text: 'Scale creates millionaires. Magnitude creates millionaires. Scale and magnitude creates billionaires.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3899',
+          value: 3899,
+        },
+        note: null,
+      },
+      {
+        text: 'The more lives you impact, directly or indirectly, the more wealth you will attract. ',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3920',
+          value: 3920,
+        },
+        note: null,
+      },
+      {
+        text: 'Get into a position to impact millions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3928',
+          value: 3928,
+        },
+        note: null,
+      },
+      {
+        text: 'Can’t get access to millions like an athlete? Then go directly to the source and serve the source.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3929',
+          value: 3929,
+        },
+        note: null,
+      },
+      {
+        text: 'your primary income source comes from a job, your ability to pay yourself first is paralyzed because the governments are paid first! For “pay yourself first” to be legitimate, you truly need to pay yourself first in infinite amounts and the government last. You must own your vehicle.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3974',
+          value: 3974,
+        },
+        note: null,
+      },
+      {
+        text: 'The first step to controlling your vehicle—you—is to own yourself so you’re paid first and the government last. That is accomplished by forming your business into a corporation that you control.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3980',
+          value: 3980,
+        },
+        note: null,
+      },
+      {
+        text: 'When you own a corporation, net profits are reduced by expenses. The remaining profit is taxed, and those taxes are paid to the government.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=3983',
+          value: 3983,
+        },
+        note: null,
+      },
+      {
+        text: 'Simple: If you aren’t where you want to be, the problem is your choices.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4065',
+          value: 4065,
+        },
+        note: null,
+      },
+      {
+        text: 'It isn’t one choice but hundreds. And when you line a string of choices together, they create your process, and your process will create your lifestyle. Lifestyle choices will make you a millionaire.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4079',
+          value: 4079,
+        },
+        note: null,
+      },
+      {
+        text: 'Our choices have consequences that transcend decades.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4173',
+          value: 4173,
+        },
+        note: null,
+      },
+      {
+        text: 'The smallest choices made in your daily life create habits and lifestyle that forms process—they are the ones that can make the biggest impact.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4222',
+          value: 4222,
+        },
+        note: null,
+      },
+      {
+        text: 'A Fastlane process is hundreds of choices.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4224',
+          value: 4224,
+        },
+        note: null,
+      },
+      {
+        text: '1)​Choices of perception (thought patterns) 2)​Choices of action (choosing to read)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4258',
+          value: 4258,
+        },
+        note: null,
+      },
+      {
+        text: 'Altering your words and thought perceptions are akin to wiping your windshield clean and seeing beyond your bubble.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4301',
+          value: 4301,
+        },
+        note: null,
+      },
+      {
+        text: 'You start making better choices using two strategies dependent on the decision’s gravity. 1)​Worse Case Consequence Analysis (WCCA) 2)​Weighted Average Decision Matrix (WADM)',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4321',
+          value: 4321,
+        },
+        note: null,
+      },
+      {
+        text: 'WCCA asks you to answer three questions about every decision of consequence: 1)​What is the worst-case consequence of this choice? 2)​What is the probability of this outcome? 3)​Is this an acceptable risk?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4332',
+          value: 4332,
+        },
+        note: null,
+      },
+      {
+        text: 'For WADM, you need paper and a pencil. Or, you can visit HelpMyDecision.com',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4376',
+          value: 4376,
+        },
+        note: null,
+      },
+      {
+        text: 'Keep in mind, WADM is for big decisions, so you might use this a few times a year whereas WCCA can be used daily.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4377',
+          value: 4377,
+        },
+        note: null,
+      },
+      {
+        text: 'Ridicule is the tribute paid to the genius by the mediocrities. ~ Oscar Wilde',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4481',
+          value: 4481,
+        },
+        note: null,
+      },
+      {
+        text: 'Go into a kindergarten class and ask the kids how many of them can sing. EVERY hand will go up. Fast-forward 13 years and ask the same class of seniors the same question. Only a few hands will go up. What changed? The kindergarten kids believed they could sing because no one had told them otherwise.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4490',
+          value: 4490,
+        },
+        note: null,
+      },
+      {
+        text: 'We must not hear the naysayers, because they have been conditioned by society.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4493',
+          value: 4493,
+        },
+        note: null,
+      },
+      {
+        text: 'You can’t worry about deviating from social norms, because the norm is to be two paychecks from broke. If you want to push beyond average results produced by average people, you’ll need to adopt an uncommon approach that doesn’t fall in the favor of “everyone.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4494',
+          value: 4494,
+        },
+        note: null,
+      },
+      {
+        text: 'Extraordinary wealth will require you to have extraordinary beliefs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4497',
+          value: 4497,
+        },
+        note: null,
+      },
+      {
+        text: 'Join entrepreneur forums with a Fastlane mindset, like the Fastlane Forum!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4565',
+          value: 4565,
+        },
+        note: null,
+      },
+      {
+        text: 'Instead of wasting nine years on Game of Thrones and How I Met Your Mother, why not invest those nine years into a business system that can pay dividends for the next thirty years?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4625',
+          value: 4625,
+        },
+        note: null,
+      },
+      {
+        text: 'Control parasitic debt by controlling its source: instant gratification, a trait of the Sidewalk.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4728',
+          value: 4728,
+        },
+        note: null,
+      },
+      {
+        text: 'Behind poverty’s tangled roots, you will find a poor valuation of free time, which breeds from bad choices.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4753',
+          value: 4753,
+        },
+        note: null,
+      },
+      {
+        text: 'Fastlaners are frugal with time, while Slowlaners are frugal with money.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4774',
+          value: 4774,
+        },
+        note: null,
+      },
+      {
+        text: 'Time is king.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4778',
+          value: 4778,
+        },
+        note: null,
+      },
+      {
+        text: 'The Fastlane road trip demands fresh oil changes. But what is oil? Oil is education. Knowledge. Street smarts. But be careful . . . it must be the right oil and for the right purpose.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4797',
+          value: 4797,
+        },
+        note: null,
+      },
+      {
+        text: 'What you know today is not enough to get you where you need to be tomorrow. You must constantly reinvent yourself, and reinvention is education.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4805',
+          value: 4805,
+        },
+        note: null,
+      },
+      {
+        text: 'When you continually inject yourself with new education, new skills, and new competencies, new roads open and things run smoothly. The right education has incredible horsepower. New opportunities rarely follow an old education.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4816',
+          value: 4816,
+        },
+        note: null,
+      },
+      {
+        text: 'My religious pursuit of knowledge kept me efficient in an ever-changing world and primed me for Fastlane opportunities.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4856',
+          value: 4856,
+        },
+        note: null,
+      },
+      {
+        text: 'A committed Fastlaner has his nose in a book weekly.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4869',
+          value: 4869,
+        },
+        note: null,
+      },
+      {
+        text: 'No one drops a book on your lap and gifts knowledge. You have to seek it, process it, and then use it. The acquisition and application of knowledge will make you rich.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4882',
+          value: 4882,
+        },
+        note: null,
+      },
+      {
+        text: 'Free magazines: Visit TradePub.com and FreeBizMag.com and sign up for free magazines subscriptions pertaining to your topic of interest.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4902',
+          value: 4902,
+        },
+        note: null,
+      },
+      {
+        text: 'The best investment you can make is in yourself. So be willing to pay for your education now, or be prepared to pay a much bigger price for your lack of education later.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4916',
+          value: 4916,
+        },
+        note: null,
+      },
+      {
+        text: 'The world is in constant flux, and as it evolves your education must move with it or you will drift to mediocrity.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=4919',
+          value: 4919,
+        },
+        note: null,
+      },
+      {
+        text: 'How can you tell a good seminar from bad? The first tipoff is price. Anything unreasonable is a warning sign that the provider is more interested in making money than education. The second is price again. Be wary of FREE. FREE usually means eight minutes of education and eight hours of up-sell to a higher-priced seminar.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5009',
+          value: 5009,
+        },
+        note: null,
+      },
+      {
+        text: 'Money trees, businesses, and systems aren’t built overnight. It took Chuma years to construct his pyramid machine. Commitment is money-tree water, sun, fertilizer, and cultivation.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5033',
+          value: 5033,
+        },
+        note: null,
+      },
+      {
+        text: 'Interest reads a book; commitment applies the book 50 times. Interest wants to start a business; commitment files LLC paperwork. Interest works on your business an hour a day Monday through Friday; commitment works on your business seven days a week whenever time permits.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5044',
+          value: 5044,
+        },
+        note: null,
+      },
+      {
+        text: 'Most people aren’t willing, and it separates the winners from the losers. The idea of living in the rat race for 50 years has to be more painful than the idea of working your ass off to escape it. You can have mediocre comfort now or meteoric comfort later. The Fastlaner trades short-term comforts with the foreknowledge that long-term extraordinary comfort is to be gained.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5063',
+          value: 5063,
+        },
+        note: null,
+      },
+      {
+        text: 'The brick walls are there for a reason. The brick walls are not there to keep us out; the brick walls are there to give us a chance to show how badly we want something. The brick walls are there to stop the people who don’t want it badly enough. They are there to stop the other people!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5069',
+          value: 5069,
+        },
+        note: null,
+      },
+      {
+        text: 'Prime your expectations for work and sacrifice, know your destination and know that you are simply paying the toll because you don’t want to trade 5-for-2 for life! If you don’t do the hard work that Fastlane opportunity demands, someone else will. And if you aren’t like everyone, you will discover something miraculous: You can live unlike everyone.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5081',
+          value: 5081,
+        },
+        note: null,
+      },
+      {
+        text: 'Take calculated risks. Do so and shit happens. You meet new people. New opportunities arise. Feedback pours in. “Lucky breaks” converge into your life. The act of doing does marvelous things.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5095',
+          value: 5095,
+        },
+        note: null,
+      },
+      {
+        text: 'If you quit your job to pursue a Fastlane business, it’s an intelligent risk. Your upside could be millions. The downside? You might have to live below your standards: mop floors, flip burgers, eat rice and beans, and ride your bike to the grocery store. Or worse, deny your child the latest iPhone. Is that really that bad? Not if you know your destination and your commitment to the roadmap.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5134',
+          value: 5134,
+        },
+        note: null,
+      },
+      {
+        text: 'it is easier to live in regret of failure than in regret of never trying.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5139',
+          value: 5139,
+        },
+        note: null,
+      },
+      {
+        text: 'There is never a perfect time. Someday is today. Today is now.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5159',
+          value: 5159,
+        },
+        note: null,
+      },
+      {
+        text: 'In the Fastlane, you engineer a business that touches millions of lives in scale, or many lives in magnitude. If your road doesn’t lead through Effection’s neighborhood or have an exit-ramp onto it, sorry, you’re on the wrong road.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5228',
+          value: 5228,
+        },
+        note: null,
+      },
+      {
+        text: 'When you control your business, you control everything in your business—your organization, your products, your pricing, your revenue model, and your operational choices. If you can’t control every aspect of your company, you’re not driving! And if you can’t drive, you set yourself up for sudden, unexpected crashes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5269',
+          value: 5269,
+        },
+        note: null,
+      },
+      {
+        text: 'If someone can “flip a switch” and destroy your business, you’re playing roulette with your financial plan.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5331',
+          value: 5331,
+        },
+        note: null,
+      },
+      {
+        text: 'If you can’t change your product, your price, or influence marketing decisions, are you the boss?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5339',
+          value: 5339,
+        },
+        note: null,
+      },
+      {
+        text: 'Think globally, not locally. Think to lead, not to follow. Think to innovate, not to copy.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5353',
+          value: 5353,
+        },
+        note: null,
+      },
+      {
+        text: 'When you blindly invest your life and time into someone else’s brand, you become a part of their marketing plan.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5375',
+          value: 5375,
+        },
+        note: null,
+      },
+      {
+        text: 'Fastlaners control their brands, their properties, and their financial plans. They don’t blindly give it to others and hope for the best.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5380',
+          value: 5380,
+        },
+        note: null,
+      },
+      {
+        text: 'Stop climbing pyramids and start building them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5427',
+          value: 5427,
+        },
+        note: null,
+      },
+      {
+        text: 'The Commandment of Entry states that as entry barriers to any business road fall, or lessen, the effectiveness of that road declines while competition in that field subsequently strengthens.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5464',
+          value: 5464,
+        },
+        note: null,
+      },
+      {
+        text: 'There’s an old saying, “In a gold rush, don’t dig for gold, sell shovels!”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5509',
+          value: 5509,
+        },
+        note: null,
+      },
+      {
+        text: 'Want to know if your business violates entry? The answer is simple: Is getting into business an event or a process?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5512',
+          value: 5512,
+        },
+        note: null,
+      },
+      {
+        text: 'When it comes to money, the best warning flag is “everyone.” Everyone is a red flag that the Commandment of Entry has been violated. If everyone is bewitched by the same activity, it surely will fail.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5529',
+          value: 5529,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want to live unlike everyone, you can’t be like everyone. Don’t confuse that with exceptionality. You have to lead the pack and have “everyone” follow. When the sheep are lining up single-file for slaughter, you want to own the slaughterhouse.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5558',
+          value: 5558,
+        },
+        note: null,
+      },
+      {
+        text: 'Businesses that solve needs and provide value win.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5581',
+          value: 5581,
+        },
+        note: null,
+      },
+      {
+        text: 'Businesses that solve problems win profits.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5582',
+          value: 5582,
+        },
+        note: null,
+      },
+      {
+        text: 'People care about what your business can do for them. How will it help them? What’s in it for them? Will it solve their problem? Make their life easier? Provide them with shelter? Save them money? Educate them? Make them feel something? Tell me, why on God’s green Earth should I give your business money? What value are you adding to my life? Reflect back to our producer/consumer dichotomy. Consumers are selfish. They demand to know is “what’s in it for me!” To succeed as a producer, surrender your own selfishness and address the selfishness of others.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5587',
+          value: 5587,
+        },
+        note: null,
+      },
+      {
+        text: 'Never start a business just to make money. Stop chasing money and start chasing needs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5593',
+          value: 5593,
+        },
+        note: null,
+      },
+      {
+        text: 'Stop thinking about business in terms of your selfish desires, whether it’s money, dreams or “do what you love.” Instead, chase needs, problems, pain points, service deficiencies, and emotions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5595',
+          value: 5595,
+        },
+        note: null,
+      },
+      {
+        text: 'Instead of selfish motives, what should have Joe been thinking? ✓- Is there a need in my neighborhood for a martial arts studio? ✓- What are existing martial arts studios doing wrong that I could do better? ✓- What improved value do I offer the martial arts student? ✓- What assets do I bring to this community?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5611',
+          value: 5611,
+        },
+        note: null,
+      },
+      {
+        text: 'Money isn’t attracted to selfish people. It is attracted to businesses that solve problems. It’s attracted to people who fill needs and add value. Solve needs massively and money massively attracts. The amount of money in your life is merely a reflection to the amount of value you have given to others.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5657',
+          value: 5657,
+        },
+        note: null,
+      },
+      {
+        text: 'In a world of selfishness, become unselfish. Need something more concrete? No problem. Make 1 million people achieve any of the following: => Make them feel better. (entertainment, music, video games) => Help them solve a problem. => Educate them. => Make them look better (health, nutrition, clothing, makeup). => Give them security (housing, safety, health). => Raise a positive emotion (love, happiness, laughter, self-confidence). => Satisfy appetites, from basic (food) to the risqué (sexual). => Make things easier. => Enhance their dreams and give hope. . . . and I guarantee, you will be worth millions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5673',
+          value: 5673,
+        },
+        note: null,
+      },
+      {
+        text: '“Doing what you love” for money often isn’t good enough because we aren’t good enough.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5702',
+          value: 5702,
+        },
+        note: null,
+      },
+      {
+        text: 'Additionally, so many people are “doing what they love” that their markets get crowded and margins deflate. Heavy competition reigns.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5702',
+          value: 5702,
+        },
+        note: null,
+      },
+      {
+        text: 'First, “do what you love” rarely creates money fast because more than likely, not only are YOU doing what you love but thousands of others are too',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5736',
+          value: 5736,
+        },
+        note: null,
+      },
+      {
+        text: 'when supply exceeds demand (need) prices move down. Not enough need, too much supply.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5741',
+          value: 5741,
+        },
+        note: null,
+      },
+      {
+        text: 'Why are you starting this business? Because you love it? Or because there is a real market need?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5774',
+          value: 5774,
+        },
+        note: null,
+      },
+      {
+        text: 'Passion for an end goal, a why, drives Fastlane action.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5775',
+          value: 5775,
+        },
+        note: null,
+      },
+      {
+        text: 'Dreams are forsaken to pay the bills. Instead of a convergent road to dreams (or a chance of a dream), their road goes through an inescapable hell.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5806',
+          value: 5806,
+        },
+        note: null,
+      },
+      {
+        text: 'Life becomes suffering. There is nothing wrong with working at Verizon or Taco Bell. Heck, these jobs would have been promotions compared to the meaningless jobs I’ve held. But please, don’t make these jobs your end, your final road, because the “end” most likely will never come.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5807',
+          value: 5807,
+        },
+        note: null,
+      },
+      {
+        text: 'The Commandment of Time asks: ✓-  Can this business be automated and systematized to operate while I’m absent? ✓- Are my margins thick enough to hire human resource seedlings? ✓- Can my operation benefit from the introduction of a money tree seedling? ✓- How can I get this business to operate exclusive of my time?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5865',
+          value: 5865,
+        },
+        note: null,
+      },
+      {
+        text: 'As a Fastlaner, you can start any business but eventually you must strive for automation. You want passivity and a living money tree.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5894',
+          value: 5894,
+        },
+        note: null,
+      },
+      {
+        text: 'Content systems, computer systems, software systems, distribution systems, and human resource systems are all seedlings to money trees. If your business isn’t based on one, can one be added to make it passive?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5900',
+          value: 5900,
+        },
+        note: null,
+      },
+      {
+        text: 'The larger the habitat, the greater the potential speed, or leverage, of your Fastlane.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5928',
+          value: 5928,
+        },
+        note: null,
+      },
+      {
+        text: 'To achieve scale, magnitude or reach must increase. Magnitude is naturally increased with price or cost.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5967',
+          value: 5967,
+        },
+        note: null,
+      },
+      {
+        text: 'How do you know if your business (or potential business) honors the Commandment of Scale? Ask: => Can the net income of this business scale limitlessly, say, from $2,000 per month to $200,000? => Can the asset value of this business scale into the millions? => Can this business impact millions? Or does it impact hundreds? Is its customer pool the world or a small community in the city? => Can this business be replicated and expanded beyond the local trading area by franchising, chaining, or additional units? => Best-case scenario, what is the units-sold potential? One hundred or one hundred million? => Best-case scenario, how pliable is unit profit? Does it have magnitude?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=5983',
+          value: 5983,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want access to the Law of Effection, drive a road that can break through scale or magnitude while controlling its source. If you can’t be the source, serve the source.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6036',
+          value: 6036,
+        },
+        note: null,
+      },
+      {
+        text: 'Fastlane Purity: Five Commandments Thou shalt not invest in a needless business. Thou shalt not trade time for money. Thou shalt not operate on a limited scale. Thou shalt not relinquish control. Thou shalt not let a business startup be an event over process.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6098',
+          value: 6098,
+        },
+        note: null,
+      },
+      {
+        text: 'Internet business models (roads) fall into seven broad categories: 1)​Subscription-based',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6122',
+          value: 6122,
+        },
+        note: null,
+      },
+      {
+        text: 'Offer users access to data, information, or software (SAAS), and charge a monthly fee.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6124',
+          value: 6124,
+        },
+        note: null,
+      },
+      {
+        text: 'Content-based models are online news magazines and blogs that disseminate information to a particular niche or industry.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6149',
+          value: 6149,
+        },
+        note: null,
+      },
+      {
+        text: 'Lead generation services often provide a service to consumers while simultaneously aggregating a non-homogeneous industry.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6153',
+          value: 6153,
+        },
+        note: null,
+      },
+      {
+        text: 'Community building is a cousin of content systems.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6159',
+          value: 6159,
+        },
+        note: null,
+      },
+      {
+        text: 'Brokers bring buyers and sellers together and facilitate transactions.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6164',
+          value: 6164,
+        },
+        note: null,
+      },
+      {
+        text: 'Similar to brokerages, advertisers merge buyers and sellers together and accept advertising fees in lieu of transaction fees.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6168',
+          value: 6168,
+        },
+        note: null,
+      },
+      {
+        text: 'is the act of selling goods, services, and information over the Internet.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6172',
+          value: 6172,
+        },
+        note: null,
+      },
+      {
+        text: 'Innovation is another broad stroke of Fastlane purity and encompasses many roads. It is the good old-fashioned way to get rich: Invent a product, service, or piece of information, manufacture it, and then distribute it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6184',
+          value: 6184,
+        },
+        note: null,
+      },
+      {
+        text: 'Distribution is where the war is won.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6218',
+          value: 6218,
+        },
+        note: null,
+      },
+      {
+        text: 'A great product is worthless if it doesn’t get into the hands of people, and that requires distribution.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6218',
+          value: 6218,
+        },
+        note: null,
+      },
+      {
+        text: 'Some of the greatest books in the world go unread, while the mediocre stuff sells millions. The difference lies in marketing, public relations, and just good old-fashioned business know-how.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6224',
+          value: 6224,
+        },
+        note: null,
+      },
+      {
+        text: 'Writing a book is not a business; selling the book is.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6226',
+          value: 6226,
+        },
+        note: null,
+      },
+      {
+        text: 'The final Fastlane Interstate is “Intentional Iteration” (II). Iteration is: “the means or act of repeating a process, usually with the aim of approaching a desired goal or target or result.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6230',
+          value: 6230,
+        },
+        note: null,
+      },
+      {
+        text: 'Intentional iteration is a potent Fastlane but it offers the greatest challenge because it really doesn’t satisfy all five commandments, but four.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6232',
+          value: 6232,
+        },
+        note: null,
+      },
+      {
+        text: 'You’ve got a great idea, but someone is already doing it? So what. Do it better.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6277',
+          value: 6277,
+        },
+        note: null,
+      },
+      {
+        text: 'Someone is always already doing it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6279',
+          value: 6279,
+        },
+        note: null,
+      },
+      {
+        text: '“Competition is everywhere. Just do it and do it better.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6284',
+          value: 6284,
+        },
+        note: null,
+      },
+      {
+        text: 'Successful businesses rarely evolve from some legendary idea. Nope, successful entrepreneurs take existing concepts and improve them.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6290',
+          value: 6290,
+        },
+        note: null,
+      },
+      {
+        text: 'Skip the big idea and go for the big execution.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6291',
+          value: 6291,
+        },
+        note: null,
+      },
+      {
+        text: 'Solve other people’s problems and you will solve your own money problems!',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6348',
+          value: 6348,
+        },
+        note: null,
+      },
+      {
+        text: 'Everyone fails on the road to success.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6351',
+          value: 6351,
+        },
+        note: null,
+      },
+      {
+        text: 'Yes, quitting your road and changing directions is sometimes the best choice. But be mindful of the distinction between “quitting” and “quitting your road.” Quitting is leaving your dreams for dead and putting them into the bin of impossibility. “Quitting your road” is changing course and turning down a new road.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6356',
+          value: 6356,
+        },
+        note: null,
+      },
+      {
+        text: 'I made many road changes, but I didn’t give up on the dream. If your road doesn’t converge with your dreams, it might be time to quit your road. ',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6360',
+          value: 6360,
+        },
+        note: null,
+      },
+      {
+        text: 'Define the lifestyle you want and its associated costs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6418',
+          value: 6418,
+        },
+        note: null,
+      },
+      {
+        text: 'Determine the monthly cost for each, including all associated expenses; taxes, utilities, maintenance, insurance, etc. Don’t forget life overhead, such as health insurance, food, etc.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6425',
+          value: 6425,
+        },
+        note: null,
+      },
+      {
+        text: 'Next, determine your Net Living Cost by dividing Gross Living Cost by .60, or 60%. This will account for potential taxes.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6445',
+          value: 6445,
+        },
+        note: null,
+      },
+      {
+        text: 'To calculate your money system target, multiply your Net Living Cost by 12, then divide by .05, or 5%. Five percent is the minimum expected yield on a money system.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6454',
+          value: 6454,
+        },
+        note: null,
+      },
+      {
+        text: 'For your business system target, multiply your Gross Living Cost by 5, the required parameter to achieve a similar result by a money system.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6463',
+          value: 6463,
+        },
+        note: null,
+      },
+      {
+        text: 'These are your two targets. First, seek to create a business system that generates $70,000/month in passive monthly income. Of this income, 40% goes to taxes, 40% goes to fund your money system, and 20% pays your lifestyle. This delivers your target lifestyle AND simultaneously funds your money system.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6469',
+          value: 6469,
+        },
+        note: null,
+      },
+      {
+        text: 'The final step is to fund your money system at a brokerage firm.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6519',
+          value: 6519,
+        },
+        note: null,
+      },
+      {
+        text: 'Now, I reiterate, Fastlane wealth is created by the net income and asset value—not by the stock market or compound interest. Your Fastlane business should fund this account, not savings from your paycheck.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6550',
+          value: 6550,
+        },
+        note: null,
+      },
+      {
+        text: 'You can’t build a financial empire if you’re ignorant of basic finance and economics. These',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6566',
+          value: 6566,
+        },
+        note: null,
+      },
+      {
+        text: 'Many perfectly intelligent people lack rudimentary knowledge of basic financial concepts such as: ✓- Interest rates ✓- Taxable and non-taxable yields ✓- Amortization of mortgages ✓- The balancing of a check book ✓- Basic percentage calculations ✓- Calculating return on investment ✓- Why stocks rise and fall ✓- Why a guaranteed 15% return on a bank CD is screaming, “scam!” ✓- How stock options work, such as calls and puts ✓- Why insurance exists ✓- How a mutual fund works ✓- What bonds are and how they rise and fall ✓- Global currency ✓- What happens to a stock when a dividend is paid',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6571',
+          value: 6571,
+        },
+        note: null,
+      },
+      {
+        text: 'Live below your means with the intent to expand your means.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6592',
+          value: 6592,
+        },
+        note: null,
+      },
+      {
+        text: 'Slowlaners seek to minimize expenses while the Fastlaner seeks to maximize income and asset values.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6598',
+          value: 6598,
+        },
+        note: null,
+      },
+      {
+        text: 'Literacy gives you the power to evaluate your adviser’s advice.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6606',
+          value: 6606,
+        },
+        note: null,
+      },
+      {
+        text: 'The King: Your execution - The Queen: Your marketing - The Bishop: Your customer service - The Knight: Your product - The Rook: Your people - The Pawn: Your ideas.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6673',
+          value: 6673,
+        },
+        note: null,
+      },
+      {
+        text: 'When it comes to your ideas, your plans, and your business, you NEVER know what works until you put it out to the world.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6776',
+          value: 6776,
+        },
+        note: null,
+      },
+      {
+        text: 'the world tells you which direction you should be going at all times. Heed the signs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6793',
+          value: 6793,
+        },
+        note: null,
+      },
+      {
+        text: 'Figure out what needs figuring and just go do it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6818',
+          value: 6818,
+        },
+        note: null,
+      },
+      {
+        text: 'The best business plan in the world will always be a track record of execution.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6823',
+          value: 6823,
+        },
+        note: null,
+      },
+      {
+        text: 'you want investors, get out and execute. Create a prototype. Create a brand. Create a track record that others can see or touch. Dive into process.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6843',
+          value: 6843,
+        },
+        note: null,
+      },
+      {
+        text: 'Complaints are a beautiful thing. They represent free feedback and expose unmet needs in your business. They represent the journey’s road noise.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6877',
+          value: 6877,
+        },
+        note: null,
+      },
+      {
+        text: 'Complaints are the world’s whispers hinting the direction you should be moving.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6881',
+          value: 6881,
+        },
+        note: null,
+      },
+      {
+        text: 'Complaints of void are extremely valuable, as they expose unmet needs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6920',
+          value: 6920,
+        },
+        note: null,
+      },
+      {
+        text: 'There’s an old saying, “I don’t know the key to success, but the key to failure is trying to please everybody.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6945',
+          value: 6945,
+        },
+        note: null,
+      },
+      {
+        text: 'As a business owner you must remember that, while you don’t have a boss, the person who pays your rent is your customer and they always should be heard—but sometimes ignored.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=6954',
+          value: 6954,
+        },
+        note: null,
+      },
+      {
+        text: 'To create raving customers, you must exceed satisfaction.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7009',
+          value: 7009,
+        },
+        note: null,
+      },
+      {
+        text: 'If more money were spent on pleasing existing clients rather than trying to find new ones, the average business would survive longer than five years.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7044',
+          value: 7044,
+        },
+        note: null,
+      },
+      {
+        text: 'Success in business comes from making your customer the boss and the No. 1 stakeholder to your business.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7051',
+          value: 7051,
+        },
+        note: null,
+      },
+      {
+        text: 'Look big, but act small. ',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7101',
+          value: 7101,
+        },
+        note: null,
+      },
+      {
+        text: 'Often, each partner looks to the other for the burden to bear, and when one bears more, resentment builds.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7159',
+          value: 7159,
+        },
+        note: null,
+      },
+      {
+        text: 'Be very careful with whom you trust with the keys to your castle because they can drive you to financial ruin.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7181',
+          value: 7181,
+        },
+        note: null,
+      },
+      {
+        text: 'When hundreds of people get into a business solely because they know how or want to (not need based), you get put into commoditization position: price wars haggling over a few dollars.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7307',
+          value: 7307,
+        },
+        note: null,
+      },
+      {
+        text: 'There is limited need (limited demand) and too many providers  (supply).',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7308',
+          value: 7308,
+        },
+        note: null,
+      },
+      {
+        text: 'The point of having a need-based premise is to avoid the industry entirely, or to get in it to solve a specific problems and skew value, not to change it after the fact. If your product isn’t someone’s knight, standing out from the crowd and skewing value, it stands to be commoditized.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7309',
+          value: 7309,
+        },
+        note: null,
+      },
+      {
+        text: 'Differentiation is a defense to commoditization',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7350',
+          value: 7350,
+        },
+        note: null,
+      },
+      {
+        text: 'Everyone has an invisible sign hanging from their neck saying, ‘Make me feel important.’ Never forget that message when working with people. ~ Mary Kay Ash',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7361',
+          value: 7361,
+        },
+        note: null,
+      },
+      {
+        text: 'The queen is the most powerful piece in chess and it is also in business. Marketing can convince people to buy mediocre products.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7372',
+          value: 7372,
+        },
+        note: null,
+      },
+      {
+        text: 'Businesses survive. Brands thrive. A brand is the best defense to commoditization.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7376',
+          value: 7376,
+        },
+        note: null,
+      },
+      {
+        text: 'The first step at building a brand is to have a Unique Selling Proposition or a USP.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7398',
+          value: 7398,
+        },
+        note: null,
+      },
+      {
+        text: 'How do you develop a solid USP for your company? There are five steps.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7420',
+          value: 7420,
+        },
+        note: null,
+      },
+      {
+        text: 'Get into business for the right reason: to add or create value, solve problems or fill a need. That creates your first USP.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7422',
+          value: 7422,
+        },
+        note: null,
+      },
+      {
+        text: 'The objective of a USP is to be unique when compared to the alternatives. This plants a logical argument into your customer for choosing your company, because, without your company, they are forgoing the benefit.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7427',
+          value: 7427,
+        },
+        note: null,
+      },
+      {
+        text: 'USPs should use powerful action verbs that create desire and urgency. “Lose weight” should be changed to “Obliterate fat” or “Shred pounds.”',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7429',
+          value: 7429,
+        },
+        note: null,
+      },
+      {
+        text: 'Noise is everywhere, and if you are going to rise above it, you have to alleviate natural consumer skepticism. Do so by being specific, and if possible, offer evidence.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7435',
+          value: 7435,
+        },
+        note: null,
+      },
+      {
+        text: 'The best USPs are short, clear, and powerful. Long phrases get skipped over.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7446',
+          value: 7446,
+        },
+        note: null,
+      },
+      {
+        text: 'A USP is worthless if it isn’t conveyed throughout every aspect of your business. Include your USP on all your public communications:',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7448',
+          value: 7448,
+        },
+        note: null,
+      },
+      {
+        text: 'A USP has to be convincing, enough so that people buy or, even better, switch brands. If it doesn’t capture your audience’s attention, or the benefit/hook is too weak, it won’t work. And then make your USP real. You must deliver on what you say.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7455',
+          value: 7455,
+        },
+        note: null,
+      },
+      {
+        text: 'If you can move your audience’s emotions and make them care, they will buy.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7524',
+          value: 7524,
+        },
+        note: null,
+      },
+      {
+        text: 'Interactivity increases response for anything. If you can taste it, feel it, or use it, you will be more likely to buy it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7527',
+          value: 7527,
+        },
+        note: null,
+      },
+      {
+        text: 'When your potential customers break down their personal barriers and expose pieces of themselves, a relationship builds making it easier to sell. A relationship sells more than an anonymous corporate entity.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7533',
+          value: 7533,
+        },
+        note: null,
+      },
+      {
+        text: 'video gaming and the “freemium” business model is another example of interaction.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7542',
+          value: 7542,
+        },
+        note: null,
+      },
+      {
+        text: 'If you get someone’s attention, half the battle is won.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7563',
+          value: 7563,
+        },
+        note: null,
+      },
+      {
+        text: 'As consumers, we buy things to solve needs. We participate in transactions to fill voids.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7577',
+          value: 7577,
+        },
+        note: null,
+      },
+      {
+        text: 'We must become problem solvers and align our business as a savior to someone.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7580',
+          value: 7580,
+        },
+        note: null,
+      },
+      {
+        text: 'If you want to sell anything, translate features to benefits. A four-step process accomplishes this. 1)​Switch places. 2)​Identify features. 3)​Identify advantages. 4)​Translate advantages into benefits.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7583',
+          value: 7583,
+        },
+        note: null,
+      },
+      {
+        text: 'Price is a brand-builder because price implies value. The more expensive your price, the higher its perceived value. The cheaper your price, well, the cheaper it will be perceived. Price isn’t just a number that tells someone cost. It conveys value and worth.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7632',
+          value: 7632,
+        },
+        note: null,
+      },
+      {
+        text: 'No horse gets anywhere until he is harnessed. No steam or gas ever drives anything until it is confined. No Niagara is ever turned into light and power until it is tunneled. No life ever grows great until it is focused, dedicated, disciplined. ~ Harry Emerson Fosdick',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7692',
+          value: 7692,
+        },
+        note: null,
+      },
+      {
+        text: 'A scattered focus leads to scattered results.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7705',
+          value: 7705,
+        },
+        note: null,
+      },
+      {
+        text: 'If you’re dabbling in 10 different things, your results will be dabbling and unimpressive. Focus on one thing and do it in the most excellent way.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7725',
+          value: 7725,
+        },
+        note: null,
+      },
+      {
+        text: '19. Exit (fastlane superchargEr) Have an Exit strategy. Full passivity accomplished by a money system is one Fastlane destination. Money systems are best funded by liquidation events of massive asset values. Know when it’s time to liquidate your assets, transforming paper money into real money. Know when it’s time to get off the horse and learn to ride a new one.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B004BDOUAI&location=7853',
+          value: 7853,
+        },
+        note: null,
+      },
+    ],
+  },
+  {
+    asin: 'B082YS8VJ9',
+    title:
+      'Unreasonable Success and How to Achieve It: Unlocking the Nine Secrets of People Who Changed the World',
+    authors: 'Richard Koch',
+    highlights: [
+      {
+        text: 'The first landmark is self-belief. If we don’t have strong self-belief, it’s almost impossible to become unreasonably successful.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=184',
+          value: 184,
+        },
+        note: null,
+      },
+      {
+        text: 'Inflated praise is demotivating, or else it leads to delusions which sooner or later will be demolished.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=563',
+          value: 563,
+        },
+        note: null,
+      },
+      {
+        text: 'For adults as for children, only genuine positive feedback is useful.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=564',
+          value: 564,
+        },
+        note: null,
+      },
+      {
+        text: '‘Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.’',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=566',
+          value: 566,
+        },
+        note: null,
+      },
+      {
+        text: 'Self-belief is the foundation of success. This is an iron rule. Nobody ever became unreasonably successful without a strong belief in themselves.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=633',
+          value: 633,
+        },
+        note: null,
+      },
+      {
+        text: 'The study is staggering because there was no real difference in performance the first time round between the ‘outstandingly gifted’ kids and the rest – the ones identified as gifted were selected by the researchers precisely because in truth they had average scores. The researchers had deceived the teachers. And yet, those false expectations of the pupils’ potential had generated outstanding results the second time.2 The experiment – since replicated many times – shows the importance of expectations, and how they operate in our unconscious minds. Expectations of the children’s performance became self-fulfilling, even without any conscious communication.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=702',
+          value: 702,
+        },
+        note: null,
+      },
+      {
+        text: 'So often in life, people see what they expect to see, and this compounds the expectation, making it real.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=710',
+          value: 710,
+        },
+        note: null,
+      },
+      {
+        text: 'Those who inherit the earth will be those who expect to.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=719',
+          value: 719,
+        },
+        note: null,
+      },
+      {
+        text: 'The higher we set our expectations, the more likely we are to reach the top.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=719',
+          value: 719,
+        },
+        note: null,
+      },
+      {
+        text: 'There is a fine balance between optimism and delusion.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=721',
+          value: 721,
+        },
+        note: null,
+      },
+      {
+        text: 'High standards can be taught. If you start with a high-standards team, newcomers will quickly adapt.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=864',
+          value: 864,
+        },
+        note: null,
+      },
+      {
+        text: 'A small company facing a bigger rival must segment the market and focus on one area or a few where it can become the largest in that segment, having the highest volumes of the relevant products and customers, and therefore the lowest costs.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1426',
+          value: 1426,
+        },
+        note: null,
+      },
+      {
+        text: 'Price is a potent competitive weapon. If lower prices enable a firm to gain market share and become the largest in a segment, and therefore have lower costs than any rival at that point, it is worth selling at a loss in the short term to build volume and competitive advantage.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1429',
+          value: 1429,
+        },
+        note: null,
+      },
+      {
+        text: 'This first model is the best – you can acquire ideas and authority, and start to experiment, while still employed by someone else. You become transformed on their dime. The firm you found is not really a start-up, more a continuation and personalisation – your personalisation – of a validated prototype. The new venture can be relatively low-risk, yet still high-return, both financially and, more important, psychically.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1444',
+          value: 1444,
+        },
+        note: null,
+      },
+      {
+        text: 'Work for a strange, singular, surprising – and surprisingly successful – company. Look for one that is growing fast; that does things differently from its larger rivals; that focuses on a special subset of customers and that knows something the rivals do not know. Attain rare knowledge and confidence from what the firm knows. Next, work out how to use that special knowledge in a different way, just as Bezos did. Then reach for the stars.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1447',
+          value: 1447,
+        },
+        note: null,
+      },
+      {
+        text: '‘Happiness must happen – and the same holds for success – you have to let it happen by not caring about it . . . listen to what your conscience commands . . . and carry it out to the best of your knowledge.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1731',
+          value: 1731,
+        },
+        note: null,
+      },
+      {
+        text: 'His strategic opportunism – which I have emulated, and commend to you as a route to unreasonable success – combined two elements usually seen as contradictory: • Extreme determination on strategy, yoked together with • Extreme flexibility on the means and timing of action, reacting to random events and grasping any opportunity they presented to advance his strategic objectives.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=1779',
+          value: 1779,
+        },
+        note: null,
+      },
+      {
+        text: 'With Viktor Frankl, too, the vehicle was the message – ‘man’s main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life’.13',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2469',
+          value: 2469,
+        },
+        note: null,
+      },
+      {
+        text: 'As Churchill said, the only thing which survives for long centuries is books.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2524',
+          value: 2524,
+        },
+        note: null,
+      },
+      {
+        text: 'If you are in business, have you started a company that is sufficiently different from any other, with a great business formula, like Amazon or Apple or the Boston Consulting Group or Bain & Company or Helena Rubinstein or Walt Disney? If you haven’t, are you obsessed with the need to do so?',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2575',
+          value: 2575,
+        },
+        note: null,
+      },
+      {
+        text: 'Success means going from failure to failure without loss of enthusiasm. —WINSTON CHURCHILL',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2597',
+          value: 2597,
+        },
+        note: null,
+      },
+      {
+        text: 'Surviving one defeat makes surviving the next defeat more bearable, easier and more likely. And eventually, if you keep pulling the one-arm bandit, you may reach your treasure – so long as you do not run out of currency, the currency of self-confidence and conviction.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2684',
+          value: 2684,
+        },
+        note: null,
+      },
+      {
+        text: 'To innovate, he says, first get into trouble. Setbacks are a discovery mechanism; they also release excess energy, motivation and willpower. Exposure to failure is essential for success; we need ‘the light of experience gained by disaster’.11 Through imagination, courage and action, it is possible to get, in his wonderful phrase, ‘the better half of luck’.12',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2693',
+          value: 2693,
+        },
+        note: null,
+      },
+      {
+        text: '‘The loser now will be later to win.’',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2766',
+          value: 2766,
+        },
+        note: null,
+      },
+      {
+        text: '‘The knowledge that you have emerged wiser and stronger from setbacks means that you are, ever after, secure in your ability to survive.’',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2837',
+          value: 2837,
+        },
+        note: null,
+      },
+      {
+        text: 'Thrive on setbacks. It is a way of thinking, a philosophy of life, and a self-conceit essential for unreasonable success.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2884',
+          value: 2884,
+        },
+        note: null,
+      },
+      {
+        text: 'Failure is the key to future success',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2888',
+          value: 2888,
+        },
+        note: null,
+      },
+      {
+        text: '‘A new idea,’ said Albert Einstein, ‘comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.’',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2925',
+          value: 2925,
+        },
+        note: null,
+      },
+      {
+        text: 'Intuition is not random. The more you are an expert in a narrow field, and have deep wells of knowledge and experience in it; the more you think about it, clearly, and with curiosity, the better your hunches will be. Intuition is not the opposite of knowledge – it’s adjacent to it, underpinned by it, the extension of it.',
+        isNoteOnly: false,
+        location: {
+          url: 'kindle://book?action=open&asin=B082YS8VJ9&location=2928',
+          value: 2928,
+        },
+        note: null,
+      },
+    ],
+  },
 ]

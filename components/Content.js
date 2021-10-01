@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import data from '../data/index'
+import data from '../data'
 import styles from './Content.module.css'
 
 const Content = () => {
@@ -63,7 +63,15 @@ const Content = () => {
             </p>
           </div>
         </div>
-        <footer className={styles.footer}>built by joshua galinato</footer>
+        <footer className={styles.footer}>
+          <a
+            href="https://galina.to"
+            target="_blank"
+            className={styles.pageLinks}
+          >
+            built by joshua galinato
+          </a>
+        </footer>
       </div>
     </>
   )
