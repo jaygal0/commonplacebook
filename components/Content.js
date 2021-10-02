@@ -7,38 +7,19 @@ const Content = () => {
   const [passage, setPassage] = useState(
     Math.floor(Math.random() * data[book].highlights.length)
   )
-  const [activeAnimation, setActiveAnimation] = useState(true)
-
   const getQuote = () => {
-    setActiveAnimation(!activeAnimation)
-
-    // FIXME: Figure this one out
-    // setTimeout(() => {
     let book = Math.floor(Math.random() * data.length)
     let passage = Math.floor(Math.random() * data[book].highlights.length)
     setBook(book)
     setPassage(passage)
-    // }, 1300)
   }
 
   return (
     <>
       {/* MAIN */}
       <main className={styles.main}>
-        <div
-          className={`${styles.headingContainer} ${
-            activeAnimation ? styles.animationSwipe : styles.animationWipe
-          }`}
-        >
-          <h1
-            className={`${styles.h1} ${
-              activeAnimation
-                ? styles.animationDissolve
-                : styles.animationDissolveAgain
-            }`}
-          >
-            {data[book].highlights[passage].text}
-          </h1>
+        <div className={styles.headingContainer}>
+          <h1 className={styles.h1}>{data[book].highlights[passage].text}</h1>
         </div>
       </main>
 
