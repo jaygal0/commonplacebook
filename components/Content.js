@@ -1,15 +1,15 @@
 import React, { useState } from 'react'
-import data from '../data'
 import styles from './Content.module.css'
+// import data from '../data'
 
-const Content = () => {
-  const [book, setBook] = useState(Math.floor(Math.random() * data.length))
+const Content = ({ data }) => {
+  const [book, setBook] = useState(Math.floor(Math.random() * data.data.length))
   const [passage, setPassage] = useState(
-    Math.floor(Math.random() * data[book].highlights.length)
+    Math.floor(Math.random() * data.data[book].highlights.length)
   )
   const getQuote = () => {
-    let book = Math.floor(Math.random() * data.length)
-    let passage = Math.floor(Math.random() * data[book].highlights.length)
+    let book = Math.floor(Math.random() * data.data.length)
+    let passage = Math.floor(Math.random() * data.data[book].highlights.length)
     setBook(book)
     setPassage(passage)
   }
@@ -19,7 +19,9 @@ const Content = () => {
       {/* MAIN */}
       <main className={styles.main}>
         <div className={styles.headingContainer}>
-          <h1 className={styles.h1}>{data[book].highlights[passage].text}</h1>
+          <h1 className={styles.h1}>
+            {data.data[book].highlights[passage].text}
+          </h1>
         </div>
       </main>
 
@@ -31,16 +33,16 @@ const Content = () => {
         <div>
           <div className={styles.wrapper}>
             <h2 className={styles.h2}>title</h2>
-            <p className={styles.text}>{data[book].title}</p>
+            <p className={styles.text}>{data.data[book].title}</p>
           </div>
           <div className={styles.wrapper}>
             <h2 className={styles.h2}>author</h2>
-            <p className={styles.text}>{data[book].authors}</p>
+            <p className={styles.text}>{data.data[book].authors}</p>
           </div>
           <div className={styles.wrapper}>
             <h2 className={styles.h2}>Location</h2>
             <p className={styles.text}>
-              {data[book].highlights[passage].location.value}
+              {data.data[book].highlights[passage].location.value}
             </p>
           </div>
         </div>

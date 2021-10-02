@@ -3,12 +3,27 @@ import Header from '../components/Header'
 import Meta from '../components/Meta'
 import BookList from '../components/BookList'
 
-export default function bookList() {
+export default function bookList({ data }) {
   return (
     <>
       <Meta />
       <Header />
-      <BookList />
+      <BookList data={data} />
     </>
   )
+}
+
+export async function getServerSideProps(context) {
+  const res = await fetch(`http://localhost:3000/api/`)
+  const data = await res.json()
+
+  if (!data) {
+    return {
+      notfound: true,
+    }
+  }
+
+  return {
+    props: { data },
+  }
 }

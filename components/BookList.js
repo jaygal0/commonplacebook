@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import data from '../data'
 import styles from './BookList.module.css'
 
-const BookList = () => {
+const BookList = ({ data }) => {
   return (
     <>
       {/* MAIN */}
@@ -14,10 +14,9 @@ const BookList = () => {
         </p>
         <div className={styles.headingContainer}>
           <ul>
-            {data.map((e) => (
+            {data.data.map((e) => (
               <li className={styles.bookList} key={e.asin}>
-                {console.log(e)}
-                {e.title}
+                {`${e.title} by ${e.authors}`}
               </li>
             ))}
           </ul>
