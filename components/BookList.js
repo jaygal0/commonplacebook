@@ -14,7 +14,7 @@ const BookList = ({ data }) => {
         <div className={styles.headingContainer}>
           <ul>
             {data.data.map((e) => (
-              <li className={styles.bookList} key={e.asin}>
+              <li className={styles.bookList} key={e._id}>
                 {`${e.title} by ${e.authors}`}
               </li>
             ))}
