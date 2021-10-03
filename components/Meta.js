@@ -4,8 +4,11 @@ import Head from 'next/head'
 const Meta = () => {
   return (
     <Head>
-      <title>Mantra</title>
-      <meta name="description" content="mantra" />
+      <title>Commonplace Book</title>
+      <meta
+        name="description"
+        content="One place to gather all my book notes. Built by Joshua Galinato"
+      />
       <link rel="icon" href="/favicon.ico" />
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link

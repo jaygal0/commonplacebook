@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import styles from './Content.module.css'
+import Footer from './Footer'
 
 const Content = ({ data }) => {
   const [book, setBook] = useState(Math.floor(Math.random() * data.data.length))
@@ -45,17 +46,8 @@ const Content = ({ data }) => {
             </p>
           </div>
         </div>
-        <footer className={styles.footer}>
-          <a
-            href="https://galina.to"
-            target="_blank"
-            rel="noreferrer"
-            className={styles.pageLinks}
-          >
-            built by joshua galinato
-          </a>
-        </footer>
       </div>
+      <Footer />
     </>
   )
 }

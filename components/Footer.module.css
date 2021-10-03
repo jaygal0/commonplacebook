@@ -1,0 +1,8 @@
+.footer {
+  text-transform: capitalize;
+  width: calc(20vw - 2.4rem);
+  position: fixed;
+  grid-row: 2;
+  right: 2.4rem;
+  bottom: 3.2rem;
+}
