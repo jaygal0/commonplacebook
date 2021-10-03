@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import styles from './Content.module.css'
-// import data from '../data'
 
 const Content = ({ data }) => {
   const [book, setBook] = useState(Math.floor(Math.random() * data.data.length))

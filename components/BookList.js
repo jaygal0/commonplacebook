@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import data from '../data'
 import styles from './BookList.module.css'
 
 const BookList = ({ data }) => {

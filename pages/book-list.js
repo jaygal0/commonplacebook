@@ -14,7 +14,9 @@ export default function bookList({ data }) {
 }
 
 export async function getServerSideProps(context) {
-  const res = await fetch(`http://localhost:3000/api/`)
+  const site = process.env.WEB_SITE
+
+  const res = await fetch(`${site}/api/`)
   const data = await res.json()
 
   if (!data) {
