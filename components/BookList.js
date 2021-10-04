@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import styles from './BookList.module.css'
+import Link from 'next/link'
 
 const BookList = ({ data }) => {
   return (
@@ -15,7 +16,9 @@ const BookList = ({ data }) => {
           <ul>
             {data.data.map((e) => (
               <li className={styles.bookList} key={e._id}>
-                {`${e.title} by ${e.authors}`}
+                <Link
+                  href={`/book-list/${e._id}`}
+                >{`${e.title} by ${e.authors}`}</Link>
               </li>
             ))}
           </ul>

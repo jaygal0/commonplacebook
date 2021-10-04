@@ -45,3 +45,8 @@
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
+
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid #869986;
+}

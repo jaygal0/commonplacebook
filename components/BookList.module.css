@@ -25,6 +25,11 @@
   margin-bottom: 2.4rem;
 }
 
+.bookList:hover {
+  color: #869986;
+  transition: 0.2s all ease-in-out;
+}
+
 .mainBackground {
   background-color: #cfd3cf;
   height: 100%;
