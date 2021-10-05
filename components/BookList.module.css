@@ -5,7 +5,9 @@
 }
 
 .paragraph {
-  padding: 0 11.9rem 1.6rem 11.9rem;
+  margin-bottom: 6.4rem;
+  width: 50%;
+  font-weight: 200;
 }
 
 .headingContainer {
@@ -14,7 +16,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 4.7rem 11.9rem;
+  padding: 8.8rem 11.9rem;
 }
 
 .bookList {

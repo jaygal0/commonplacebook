@@ -3,8 +3,8 @@ import Header from '../components/Header'
 import Content from '../components/Content'
 import Meta from '../components/Meta'
 
-// TODO: Clean up components (Sidebar etc...)
 // TODO: Responsive design
+// TODO: Figure out color scheme
 // TODO: Favicon
 // TODO: Website URL
 // TODO: Figure out sorting on booklist

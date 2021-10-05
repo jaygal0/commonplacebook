@@ -47,6 +47,7 @@ const Content = ({ data }) => {
           </div>
         </div>
       </div>
+
       <Footer />
     </>
   )
