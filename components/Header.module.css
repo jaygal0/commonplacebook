@@ -46,6 +46,11 @@
   transition: transform 0.25s ease-out;
 }
 
+.mobileMenuHide,
+.mobileMenuShow {
+  display: none;
+}
+
 .burger {
   display: none;
 }
@@ -60,6 +65,7 @@
   .header {
     margin: 4rem 0 6.4rem 0;
     width: 100%;
+    align-items: center;
   }
 
   .logo {
@@ -68,6 +74,10 @@
     font-weight: 700;
     padding-left: 0;
     text-transform: capitalize;
+    margin: 1.6rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .pageLinks {
@@ -76,5 +86,61 @@
 
   .burger {
     display: block;
+  }
+
+  .mobileMenuShow {
+    display: block;
+    position: fixed;
+    background: #cfd3cf;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    padding: 3.2rem;
+    transition: all ease-in 0.3s;
+  }
+
+  .mobileMenuHide {
+    display: block;
+    position: fixed;
+    background: #cfd3cf;
+    top: 0;
+    left: -150%;
+    z-index: 10;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    padding: 3.2rem;
+    transition: all ease-in 0.3s;
+  }
+
+  .booklist {
+    font-weight: 300;
+    font-size: 2.4rem;
+    line-height: 4.8rem;
+    display: inline-block;
+    position: relative;
+    padding-bottom: 4px;
+    text-transform: capitalize;
+  }
+
+  .footerLinks {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    font-weight: 400;
+    display: inline-block;
+    position: relative;
+    padding-bottom: 4px;
+    text-transform: capitalize;
+    margin-top: 69vh;
+  }
+
+  .close {
+    display: block;
+    height: 100%;
   }
 }

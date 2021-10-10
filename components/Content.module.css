@@ -90,6 +90,12 @@
   font-weight: 300;
 }
 
+.button:focus {
+  background-color: #cfd3cf;
+  transition: all 0.2s ease-in-out;
+  border: 2px #7c8e7c solid;
+}
+
 .button:hover {
   cursor: pointer;
   background-color: #cfd3cf;

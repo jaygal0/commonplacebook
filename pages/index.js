@@ -3,13 +3,10 @@ import Header from '../components/Header'
 import Content from '../components/Content'
 import Meta from '../components/Meta'
 
-// TODO: Responsive design
-// TODO: Figure out focus states as well as command
-// TODO: Figure out color scheme
-// TODO: Favicon
-// TODO: Website URL
-// TODO: Figure out sorting on booklist
 // TODO: Implement authentication
+// TODO: Branding / Color / Favicon
+// TODO: Tablet design
+// TODO: Figure out sorting on booklist
 
 export default function Home({ data }) {
   return (
