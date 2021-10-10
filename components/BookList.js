@@ -2,11 +2,13 @@ import React, { useState } from 'react'
 import styles from './BookList.module.css'
 import Link from 'next/link'
 import Footer from './Footer'
+import Breadcrumb from './Breadcrumb'
 
 const BookList = ({ data }) => {
   return (
     <>
       <main className={styles.main}>
+        <Breadcrumb page="book list" />
         <div className={styles.headingContainer}>
           <p className={styles.paragraph}>
             Every highlight displayed is taken from one of the books listed

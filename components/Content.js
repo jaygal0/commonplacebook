@@ -23,30 +23,29 @@ const Content = ({ data }) => {
             {data.data[book].highlights[passage].text}
           </h1>
         </div>
-      </main>
-
-      {/* SIDEBAR */}
-      <div className={styles.sidebar}>
-        <button className={styles.button} onClick={getQuote}>
-          new highlight
-        </button>
-        <div>
-          <div className={styles.wrapper}>
-            <h2 className={styles.h2}>title</h2>
-            <p className={styles.text}>{data.data[book].title}</p>
-          </div>
-          <div className={styles.wrapper}>
-            <h2 className={styles.h2}>author</h2>
-            <p className={styles.text}>{data.data[book].authors}</p>
-          </div>
-          <div className={styles.wrapper}>
-            <h2 className={styles.h2}>Location</h2>
-            <p className={styles.text}>
-              {data.data[book].highlights[passage].location.value}
-            </p>
+        {/* SIDEBAR */}
+        <div className={styles.sidebar}>
+          <button className={styles.button} onClick={getQuote}>
+            new highlight
+          </button>
+          <div>
+            <div className={styles.wrapper}>
+              <h2 className={styles.h2}>title</h2>
+              <p className={styles.text}>{data.data[book].title}</p>
+            </div>
+            <div className={styles.wrapper}>
+              <h2 className={styles.h2}>author</h2>
+              <p className={styles.text}>{data.data[book].authors}</p>
+            </div>
+            <div className={styles.wrapper}>
+              <h2 className={styles.h2}>Location</h2>
+              <p className={styles.text}>
+                {data.data[book].highlights[passage].location.value}
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+      </main>
 
       <Footer />
     </>

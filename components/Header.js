@@ -2,6 +2,7 @@ import React from 'react'
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 import styles from './Header.module.css'
+import Image from 'next/image'
 
 const Header = () => {
   const router = useRouter()
@@ -17,6 +18,12 @@ const Header = () => {
       >
         <Link href="/book-list">Book List</Link>
       </div>
+      <Image
+        className={styles.burger}
+        src="/burger.svg"
+        width={24}
+        height={24}
+      />
     </header>
   )
 }

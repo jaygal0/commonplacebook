@@ -1,0 +1,14 @@
+.container {
+  font-size: 1.2rem;
+  line-height: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+.dash {
+  margin: 0 0.8rem;
+}
+
+.span {
+  font-weight: 900;
+  text-transform: capitalize;
+}

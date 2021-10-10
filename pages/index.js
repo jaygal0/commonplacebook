@@ -4,6 +4,7 @@ import Content from '../components/Content'
 import Meta from '../components/Meta'
 
 // TODO: Responsive design
+// TODO: Figure out focus states as well as command
 // TODO: Figure out color scheme
 // TODO: Favicon
 // TODO: Website URL
