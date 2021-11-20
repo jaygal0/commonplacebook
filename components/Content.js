@@ -4,6 +4,7 @@ import Footer from './Footer'
 
 const Content = ({ data }) => {
   const [book, setBook] = useState(Math.floor(Math.random() * data.data.length))
+  const [loading, setLoading] = useState(true)
   const [passage, setPassage] = useState(
     Math.floor(Math.random() * data.data[book].highlights.length)
   )

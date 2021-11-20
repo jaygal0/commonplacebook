@@ -8,7 +8,7 @@ export default function bookList({ data }) {
     <>
       <Meta />
       <Header />
-      <BookList data={data} />
+      {!data ? <h1>loading</h1> : <BookList data={data} />}
     </>
   )
 }

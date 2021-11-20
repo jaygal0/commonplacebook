@@ -4,8 +4,6 @@ import Content from '../components/Content'
 import Meta from '../components/Meta'
 
 // TODO: Implement authentication
-// TODO: Branding / Color / Favicon
-// TODO: Tablet design
 // TODO: Figure out sorting on booklist
 
 export default function Home({ data }) {
@@ -13,7 +11,7 @@ export default function Home({ data }) {
     <>
       <Meta />
       <Header />
-      <Content data={data} />
+      {!data ? <h1>loading</h1> : <Content data={data} />}
     </>
   )
 }

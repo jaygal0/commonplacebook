@@ -10,11 +10,6 @@ const BookList = ({ data }) => {
       <main className={styles.main}>
         <Breadcrumb page="book list" />
         <div className={styles.headingContainer}>
-          <p className={styles.paragraph}>
-            Every highlight displayed is taken from one of the books listed
-            below. This is an ever-growing list that I hope to expand for the
-            rest of my life.
-          </p>
           <ul>
             {data.data.map((e) => (
               <li className={styles.bookList} key={e._id}>

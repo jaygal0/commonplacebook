@@ -8,7 +8,7 @@ const index = ({ data }) => {
     <>
       <Meta />
       <Header />
-      <BookDetail data={data} />
+      {!data ? <h1>loading</h1> : <BookDetail data={data} />}
     </>
   )
 }
